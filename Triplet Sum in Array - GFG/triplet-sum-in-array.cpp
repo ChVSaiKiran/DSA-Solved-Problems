@@ -8,16 +8,21 @@ class Solution{
     public:
     //Function to find if there exists a triplet in the 
     //array A[] which sums up to X.
-    bool find3Numbers(int arr[], int n, int X)
+    bool find3Numbers(int arr[], int n, int x)
     {
         //Your Code Here
-        for(int i = 0;i < n;i++){
-            unordered_map<int,int> dict;
-            int sum = X - arr[i];
-            for(int j = i + 1;j < n;j++){
-                if(dict.find(sum - arr[j]) != dict.end())
+        sort(arr,arr+n);
+        for(int i=0;i<n;i++){
+            int target = x - arr[i];
+            int start = i + 1, end = n - 1;
+            while (start < end){
+                int sum = arr[start]+arr[end];
+                if (target == sum)
                     return true;
-                dict[arr[j]]++;
+                if (sum < target)
+                    start++;
+                else
+                    end--;
             }
         }
         return false;
