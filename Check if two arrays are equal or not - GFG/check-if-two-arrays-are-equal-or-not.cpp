@@ -14,16 +14,17 @@ class Solution{
     //Function to check if two arrays are equal or not.
     bool check(vector<ll> A, vector<ll> B, int n) {
         //code here
-        unordered_map<int,int> m1,m2;
-        for(int i = 0; i < n; i++){
-            m1[A[i]]++;
-            m2[B[i]]++;
-        }
-        for(auto it:m1){
-            auto temp = m2.find(it.first);
-            if(temp == m2.end() || temp->second != it.second)
+        unordered_map<int,int> m;
+        for(int i = 0; i < n; i++)
+            m[A[i]]++;
+            
+        for(int i = 0; i < n; i++)
+            m[B[i]]--;
+            
+        for(auto it:m)
+            if(0 != it.second)
                 return false;
-        }
+                
         return true;
     }
 };
