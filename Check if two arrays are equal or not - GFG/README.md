@@ -5,24 +5,24 @@
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
 
-<pre style="position: relative;"><span style="font-size:18px"><strong>Input:
+<pre><span style="font-size:18px"><strong>Input:
 </strong>N = 5
 A[] = {1,2,5,4,0}
 B[] = {2,4,5,0,1}
 <strong>Output: </strong>1<strong>
 Explanation: </strong>Both the array can be 
 rearranged to {0,1,2,4,5}</span>
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><span style="font-size:18px"><strong>Example 2:</strong></span></p>
 
-<pre style="position: relative;"><span style="font-size:18px"><strong>Input:
+<pre><span style="font-size:18px"><strong>Input:
 </strong>N = 3
 A[] = {1,2,5}
 B[] = {2,4,15}
 <strong>Output: </strong>0<strong>
 Explanation: </strong>A[] and B[] have only 
-one common value.</span><div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+one common value.</span></pre>
 
 <p><span style="font-size:18px"><strong>Your Task:</strong><br>
 Complete&nbsp;<strong>check() </strong>function which takes both the given array and their size as function arguments and returns <strong>true</strong> if the arrays are equal else <strong>returns false</strong>.The 0 and 1 printing is done by the driver code.</span></p>
