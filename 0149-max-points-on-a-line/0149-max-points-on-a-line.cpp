@@ -1,20 +1,27 @@
 class Solution {
 public:
-    int maxPoints(vector<vector<int>>& points) {
+    int maxPoints(vector<vector<int>>& points)
+    {
         int n = points.size(), ans = 0;
-        for(int i = 0; i < n; i++){
-            unordered_map<float,int> slope;
-            int temp = 1;
-            for(int j = i + 1; j < n; j++){
+        if(n==1)
+            return 1;
+        for(int i = 0; i < n; i++)
+        {
+            unordered_map<float,int> dict;
+            for(int j = i + 1; j < n; j++)
+            {
                 int denom = points[j][0] - points[i][0];
+                int nume = points[j][1] - points[i][1];
                 if( denom != 0)
-                    slope[(float)(points[j][1] - points[i][1])/denom]++;
+                {
+                    float slope = (float)(nume)/denom;
+                    dict[slope]++;
+                    ans = max(ans,dict[slope]+1);
+                }
                 else
-                    temp++;
+                    dict[INT_MAX]++;
             }
-            for(auto it:slope)
-                ans = max(ans, it.second + 1);
-            ans = max(ans,temp);
+            ans = max(ans,dict[INT_MAX]+1);
         }
         return ans;
     }
