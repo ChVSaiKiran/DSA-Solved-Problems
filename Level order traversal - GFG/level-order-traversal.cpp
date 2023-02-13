@@ -36,32 +36,32 @@ struct Node
     }
 };
  */
+
+
 class Solution
 {
-    vector<vector<int>> temp;
-    void myfun(Node * root, int height){
-        if(root){
-            height++;
-            if(temp.size() < height)
-                temp.push_back({root->data});
-            else
-                temp[height - 1].push_back(root->data);
-            if(root->left)
-                myfun(root->left,height);
-            if(root->right)
-                myfun(root->right,height);
-        }
-    }
     public:
     //Function to return the level order traversal of a tree.
     vector<int> levelOrder(Node* node)
     {
       //Your code here
-        myfun(node,0);
+        queue<Node*> q;
+        q.push(node);
         vector<int> ans;
-        for(auto it:temp)
-            for(int i:it)
-                ans.push_back(i);
+        while(!q.empty()){
+            int n = q.size();
+            for(int i = 0; i < n; i++){
+                Node *temp = q.front();
+                ans.push_back(temp -> data);
+                q.pop();
+                
+                if(temp -> left)
+                    q.push(temp -> left);
+                    
+                if(temp -> right)
+                    q.push(temp -> right);
+            }
+        }
         return ans;
     }
 };
