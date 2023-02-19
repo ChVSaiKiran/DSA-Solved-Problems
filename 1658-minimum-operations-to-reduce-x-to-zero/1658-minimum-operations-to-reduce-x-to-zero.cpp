@@ -22,6 +22,8 @@ public:
             if(dict.find(x - sum) != dict.end())
                 ans = min(ans, i + 1 + dict[x - sum]);
         }
-        return ans == n + 1 ? -1 : ans;
+        if(ans == n + 1)
+            return -1;
+        return ans;
     }
 };
