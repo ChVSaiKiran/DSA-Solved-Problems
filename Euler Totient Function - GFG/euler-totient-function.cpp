@@ -20,7 +20,7 @@ public:
         // code here
         if(isprime(n))
             return n - 1;
-        long long ans = 0;
+        long long ans = 1;
         unordered_map<long long,int> fact;
         long long N = n;
         for(int i = 2; i * i <= n; i++)
@@ -29,20 +29,8 @@ public:
                 n /= i;
             }
         if( n > 1) fact[n]++;
-        vector<int> temp;
-        for(auto it:fact)
-            temp.push_back(it.first);
-        sort(temp.begin(),temp.end());
-        for(long long i = 1; i < N; i++){
-            bool flag = true;
-            for(auto it:temp)
-                if(i % it == 0){
-                    flag = false;
-                    break;
-                }
-            if(flag)
-                ans++;
-        }
+        for(auto it: fact)
+            ans = ans * (long long)pow(it.first,it.second - 1) * (it.first - 1);
         return ans;
     }
 };
