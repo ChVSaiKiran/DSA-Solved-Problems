@@ -101,7 +101,7 @@ class Solution
     bool issame(Node* r1, Node* r2){
         if(!r2 && !r1)
             return true;
-        if((!r1 && r2) || (r1 && !r2))
+        if(!r1 || !r2)
             return false;
         if(r1 -> data != r2 -> data)
             return false;
@@ -110,20 +110,13 @@ class Solution
     bool isSubTree(Node* T, Node* S) 
     {
         // Your code here
-        stack<Node*> s;
-        s.push(T);
-        while(!s.empty()){
-            T = s.top();
-            s.pop();
-            if(T -> data == S -> data)
-                if(issame(T,S))
-                    return true;
-            if(T -> right)
-                s.push(T -> right);
-            if(T -> left)
-                s.push(T -> left);
-        }
-        return false;
+        if(!S)
+            return true;
+        if(!T)
+            return false;
+        if(issame(T,S))
+            return true;
+        return isSubTree(T -> left,S) || isSubTree(T -> right,S);
     }
 };
 
