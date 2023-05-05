@@ -13,16 +13,27 @@ class Solution{
      // Function to find majority element in the array
     // a: input array
     // size: size of input array
-    int majorityElement(int a[], int size)
+    int majorityElement(int nums[], int size)
     {
         
         // your code here
-        unordered_map<int,int> hash;
-        for(int i = 0; i < size; i++)
-            hash[a[i]]++;
-        for(auto it:hash)
-            if(it.second > size/2)
-                return it.first;
+        int count = 0, ans = -1;
+        for(int i = 0; i < size; i++){
+            if(count == 0){
+                ans = nums[i];
+                count = 1;
+            }
+            else
+                count += (nums[i] == ans)? 1 : -1;
+        }
+        if(count > 1)
+            return ans;
+        count = 0;
+        for(int i = 0; i< size; i++)
+            if(nums[i] == ans)
+                count++;
+        if(count > size /2)
+            return ans;
         return -1;
     }
 };
