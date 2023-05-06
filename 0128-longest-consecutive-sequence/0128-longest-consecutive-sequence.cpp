@@ -6,15 +6,14 @@ public:
             s.insert(i);
         int ans = 0;
         for(int i: s){
-            if(s.find(i - 1) == s.end()){
-                int start = 1;
-                int cnt = 1;
-                while(s.find( i + start) != s.end()){
-                    cnt++;
-                    start++;
-                }
-                ans = max(ans,cnt);
-            }
+            if(s.find(i) == s.end())
+                continue;
+            int prev = i - 1, next = i + 1;
+            while(s.find(prev) != s.end())
+                s.erase(prev--);
+            while(s.find(next) != s.end())
+                s.erase(next++);
+            ans = max(ans,next - prev - 1);
         }
         return ans;
     }
