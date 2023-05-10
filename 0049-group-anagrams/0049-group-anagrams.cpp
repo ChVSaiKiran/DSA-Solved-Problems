@@ -15,7 +15,7 @@ class Solution
             for (int i = 0; i < n; i++)
             {
                 if (len[i] == -1) continue;
-                temp.push_back(strs[i]);
+                vector<string> temp(1,strs[i]);
                 for (int j = i + 1; j < n; j++)
                     if (len[i] != -1 && len[i] == len[j] && dumm[i] == dumm[j])
                     {
@@ -23,7 +23,6 @@ class Solution
                         len[j] = -1;
                     }
                 ans.push_back(temp);
-                temp = {};
             }
             return ans;
         }
