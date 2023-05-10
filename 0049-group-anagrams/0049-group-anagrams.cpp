@@ -1,24 +1,30 @@
-class Solution {
-public:
-    vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        int n = strs.size();
-        vector<string> dumm(strs), temp;
-        for(int i = 0; i < n; i++)
-            sort(dumm[i].begin(),dumm[i].end());
-        
-        vector<bool> flag(n,true);
-        vector<vector<string>> ans;
-        for(int i = 0; i < n; i++){
-            if(!flag[i])    continue;
-            temp.push_back(strs[i]);
-            for(int j = i + 1; j < n; j++)
-                if(flag[j] && dumm[i] == dumm[j]){
+class Solution
+{
+    public:
+        vector<vector < string>> groupAnagrams(vector<string> &strs)
+        {
+            int n = strs.size();
+            vector<string> dumm(strs), temp;
+            vector<int> len(n);
+            for (int i = 0; i < n; i++)
+            {
+                sort(dumm[i].begin(), dumm[i].end());
+                len[i] = dumm[i].length();
+            }
+            vector<vector < string>> ans;
+            for (int i = 0; i < n; i++)
+            {
+                if (len[i] == -1) continue;
+                temp.push_back(strs[i]);
+                for (int j = i + 1; j < n; j++)
+                    if (len[i] != -1 && len[i] == len[j] && dumm[i] == dumm[j])
+                    {
                         temp.push_back(strs[j]);
-                        flag[j] = false;
+                        len[j] = -1;
                     }
-            ans.push_back(temp);
-            temp = {};
+                ans.push_back(temp);
+                temp = {};
+            }
+            return ans;
         }
-        return ans;
-    }
 };
