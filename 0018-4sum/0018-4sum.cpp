@@ -1,25 +1,46 @@
-# define ll long long
-class Solution {
-public:
-    vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        int n = nums.size();
-        set<vector<int>> s;
-        for(int i = 0; i < n; i++)
-        for(int j = i + 1; j < n; j++){
-            unordered_set<ll> mp;
-            for(int k = j + 1; k < n; k++){
-                long long sum = nums[i] + nums[j];
-                sum += nums[k];
-                long long fourth = target - sum;
-                if(mp.find(fourth) != mp.end()){
-                    vector<int> temp = {nums[i],nums[j],nums[k],(int)fourth};
-                    sort(temp.begin(),temp.end());
-                    s.insert(temp);
+
+#define ll long long
+class Solution
+{
+    public:
+        vector<vector < int>> fourSum(vector<int> &nums, int target)
+        {
+            int n = nums.size();
+            sort(nums.begin(), nums.end());
+            vector<vector < int>> ans;
+            for (int i = 0; i < n; i++)
+            {
+                if (i > 0 && nums[i] == nums[i - 1])
+                    continue;
+                for (int j = i + 1; j < n; j++)
+                {
+                    if (j > i + 1 && nums[j] == nums[j - 1])
+                        continue;
+                    int lo = j + 1, hi = n - 1;
+                    while (lo < hi)
+                    {
+                        long long sum = nums[i] + nums[j];;
+                        sum += nums[lo];
+                        sum += nums[hi];
+                        if (sum == target)
+                        {
+                            ans.push_back({ nums[i],
+                                nums[j],
+                                nums[lo],
+                                nums[hi] });
+                            lo++; hi--;
+                            while (lo < hi && nums[lo] == nums[lo - 1])
+                                lo++;
+                            while (lo < hi && nums[hi] == nums[hi + 1])
+                                hi--;
+                        }
+                        else if (sum < target)
+                            lo++;
+                        else
+                            hi--;
+                    }
                 }
-                mp.insert(nums[k]); 
             }
+            return ans;
         }
-        vector<vector<int>> ans(s.begin(),s.end());
-        return ans;
-    }
 };
