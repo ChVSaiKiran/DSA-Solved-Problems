@@ -32,29 +32,16 @@ class Solution {
   public:
     int bitMagic(int n, vector<int> &arr) {
         // code here
-        int cnt = 0, ele = -1, ind = -1;
+        int cnt = 0;
+        bool flag = true;
         for(int i = 0; i < n / 2; i++){
             if(arr[i] != arr[n - 1 - i]){
-                if(ele == -1){
-                    ele = arr[i];
-                    ind = i;
-                }
-                else{
-                    if(ele != arr[i]){
-                        arr[i] = arr[i] ^ arr[ind];
-                        arr[ind] = arr[i];
-                    }
-                    else{
-                        arr[n - 1 - i] = arr[n - 1 - i] ^ arr[ind];
-                        arr[n - 1 - i] = arr[i];
-                    }
-                    ele = -1;
-                    ind = -1;
+                if(!flag)
                     cnt++;
-                }
+                flag = !flag;
             }
         }
-        return ele == -1 ? cnt : cnt + 1;;
+        return flag? cnt : cnt + 1;;
     }
 };
 
