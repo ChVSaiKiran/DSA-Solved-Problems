@@ -1,22 +1,23 @@
 # define ll long long
 class Solution {
 public:
-    vector<vector<int>> fourSum(vector<int>& nums, int tar) {
+    vector<vector<int>> fourSum(vector<int>& nums, int target) {
         int n = nums.size();
         set<vector<int>> s;
         for(int i = 0; i < n; i++)
         for(int j = i + 1; j < n; j++){
-            ll sum = tar - nums[i];
-            sum -= nums[j];
-            unordered_map<ll,ll> mp;
-            for(int k = j + 1; k < n; k++)
-                if(mp.find(sum - nums[k]) != mp.end()){
-                    vector<int> temp = {nums[i],nums[j],nums[mp[sum - nums[k]]],nums[k]};
+            unordered_set<ll> mp;
+            for(int k = j + 1; k < n; k++){
+                long long sum = nums[i] + nums[j];
+                sum += nums[k];
+                long long fourth = target - sum;
+                if(mp.find(fourth) != mp.end()){
+                    vector<int> temp = {nums[i],nums[j],nums[k],(int)fourth};
                     sort(temp.begin(),temp.end());
                     s.insert(temp);
                 }
-                else
-                    mp[nums[k]] =k; 
+                mp.insert(nums[k]); 
+            }
         }
         vector<vector<int>> ans(s.begin(),s.end());
         return ans;
