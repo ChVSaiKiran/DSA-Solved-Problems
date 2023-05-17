@@ -21,13 +21,11 @@ class Solution {
     }
 public:
     int pairSum(ListNode* head) {
-        ListNode *slow = head, *fast = head, *prev;
+        ListNode *slow = head, *fast = head;
         while(fast && fast -> next){
-            prev = slow;
             slow = slow -> next;
             fast = fast -> next -> next;
         }
-        prev -> next = nullptr;
         fast = reverse(slow);
         slow = head;
         int maxi = 0;
