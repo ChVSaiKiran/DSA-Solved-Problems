@@ -4,7 +4,7 @@
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
 
-<pre style="position: relative;"><span style="font-size:18px"><strong>Input:
+<pre><span style="font-size:18px"><strong>Input:
 </strong>row = 3, col = 4 
 M[][] = {{1 1 0 1},{1 0 0 1},{1 1 0 1}}
 <strong>Output: </strong>1 1 0 1 $1 0 0 1 $<strong>
@@ -15,7 +15,7 @@ looks like
 1 1 0 1
 The two unique rows are 1 1 0 1 and
 1 0 0 1 .</span>
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><span style="font-size:18px"><strong>Your Task:</strong><br>
 You only need to implement the given function&nbsp;<strong>uniqueRow()</strong>.&nbsp;The function takes three arguments the first argument is a matrix <strong>M</strong> and the next two arguments are <strong>row</strong>&nbsp;and <strong>col</strong>&nbsp;denoting the rows and columns&nbsp;of the matrix.&nbsp;The function should <strong>return</strong> the list of the unique row of the martrix. Do not read input, instead use the arguments given in the function.</span></p>
