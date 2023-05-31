@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        if(n < 20){
-            if(n == 1 || n == 7 || n == 13 || n == 19 || n == 10)
+        if(n < 10){
+            if(n == 1 || n == 7)
                 return true;
             return false;
         }
