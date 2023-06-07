@@ -11,8 +11,6 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        if(!head || !head -> next)
-            return head;
         ListNode t1, t2;
         ListNode *h1 = &t1, *h2 = &t2;
         while(head){
@@ -24,6 +22,6 @@ public:
         }
         h1 -> next = t2.next;
         h2 -> next = nullptr;
-        return t1.next ? t1.next : t2.next;
+        return t1.next;
     }
 };
