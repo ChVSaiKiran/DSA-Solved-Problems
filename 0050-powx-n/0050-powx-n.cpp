@@ -5,14 +5,13 @@ public:
         long p = n;
         if(p < 0)
             p *= -1, f2 = true;
-        
         if(x < 0)
-            x *= -1, f1 = n % 2 == 1;
-        double ans = 1, base = x;
+            x *= -1, f1 = (p % 2 == 1);
+        double ans = 1;
         while(p){
             if(p & 1)
-                ans *= base;
-            base *= base;
+                ans *= x;
+            x *= x;
             p >>= 1;
         }
         if(f2)
