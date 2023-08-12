@@ -20,34 +20,25 @@ public:
 */
 
 class Solution {
-    void create(Node *u, unordered_map<int, Node*> &graph){
-        Node *newnode = graph.find(u -> val) == graph.end() ? new Node(u -> val):graph[u -> val];
-        for(Node *v: u -> neighbors){
-            if(graph.find(v -> val) == graph.end()){
-                Node *temp = new Node(v -> val);
-                graph[v -> val] = temp;   
-            }
-            (newnode -> neighbors).push_back(graph[v -> val]);
-        }
-        graph[u -> val] = newnode;
-    }
 public:
     Node* cloneGraph(Node* node) {
         if(!node)
             return nullptr;
+        if((node -> neighbors).size() == 0)
+            return new Node(node -> val);
         unordered_map<int, Node*> graph;
-        unordered_set<int> visited;
         queue<Node*> q;
-        q.push(node), visited.insert(node -> val);
+        q.push(node);
         while(!q.empty()){
-            Node *u = q.front();
+            Node *src = q.front();
+            Node *u = graph.count(src -> val) == 0 ? new Node(src -> val) : graph[src ->val];
             q.pop();
-            create(u, graph);
-            for(Node *v: u -> neighbors){
-                if(visited.find(v -> val) != visited.end())
-                    continue;
-                q.push(v);
-                visited.insert(v -> val);
+            for(Node *v: src -> neighbors){
+                if(graph.count(v -> val) == 0){
+                    graph[v -> val] = new Node(v -> val);
+                    q.push(v);
+                }
+                (u -> neighbors).push_back(graph[v -> val]);
             }
         }
         return graph[node ->val];
