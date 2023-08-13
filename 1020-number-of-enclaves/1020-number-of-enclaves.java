@@ -1,16 +1,14 @@
 class Solution {
-    private int dfs(int grid[][], boolean vis[][], int delrow[], int delcol[], int r, int c){
+    private void dfs(int grid[][], boolean vis[][], int delrow[], int delcol[], int r, int c){
         vis[r][c] = true;
         int n = grid.length, m = grid[0].length;
-        int cnt = 1;
         for(int i = 0; i < 4; i++){
             int nrow = r + delrow[i];
             int ncol = c + delcol[i];
             if(nrow > -1 && nrow < n && ncol > -1 && ncol < m)
                 if(!vis[nrow][ncol] && grid[nrow][ncol] == 1)
-                    cnt += dfs(grid, vis, delrow, delcol, nrow, ncol);
+                    dfs(grid, vis, delrow, delcol, nrow, ncol);
         }
-        return cnt;
     }
     public int numEnclaves(int[][] grid) {
         int n = grid.length, m = grid[0].length, cnt = 0;
@@ -32,7 +30,7 @@ class Solution {
         for(int i = 1; i < n; i++)
             for(int j = 1; j < m; j++)
                 if(grid[i][j] == 1 && !vis[i][j])
-                    cnt += dfs(grid, vis, delrow, delcol, i, j);
+                    cnt++;
         return cnt;
     }
 }
