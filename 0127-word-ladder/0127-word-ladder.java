@@ -13,7 +13,9 @@ class Solution {
                 String u = q.remove();
                 for(int i = 0; i < u.length(); i++)
                     for(char j = 'a'; j <= 'z'; j++){
-                        String v = u.substring(0, i) + j + u.substring(i + 1);
+                        char x[] = u.toCharArray();
+                        x[i] = j;
+                        String v = new String(x);
                         if(s.contains(v)){
                             if(endWord.equals(v))
                                 return cnt;
