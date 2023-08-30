@@ -5,7 +5,7 @@ class Solution {
             cnt++;
             if(nums[i] == 0)
                 k--;
-            while(k < 0 && j <= i){
+            while(k < 0){
                 if(nums[j] == 0)
                     k++;
                 j++;
