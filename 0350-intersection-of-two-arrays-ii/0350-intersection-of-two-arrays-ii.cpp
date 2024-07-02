@@ -1,19 +1,16 @@
 class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> ans;
-        sort(nums1.begin(), nums1.end());
-        sort(nums2.begin(), nums2.end());
-        int i = 0, j = 0, n = nums1.size(), m = nums2.size();
-        while(i < n && j < m){
-            if(nums1[i] == nums2[j]){
-                ans.push_back(nums1[i]);
-                i++, j++;
+        vector<int> a(1001, 0), b(1001, 0), ans;
+        for(int i : nums1)  a[i]++;
+        for(int i : nums2)  b[i]++;
+        for(int i = 0; i <= 1000; i++){
+            if(a[i] && b[i]){
+                int leastCnt = min(a[i], b[i]);
+                while(leastCnt--){
+                    ans.push_back(i);
+                }
             }
-            else if(nums1[i] < nums2[j])
-                i++;
-            else
-                j++;
         }
         return ans;
     }
