@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1642-water-bottles](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2645-pass-the-pillow) |
 ## Stack
 |  |
@@ -47,6 +48,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
