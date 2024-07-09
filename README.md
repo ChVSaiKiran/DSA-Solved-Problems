@@ -47,6 +47,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -66,6 +67,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
