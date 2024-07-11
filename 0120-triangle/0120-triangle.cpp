@@ -21,7 +21,7 @@ private:
 public:
     int minimumTotal(vector<vector<int>>& arr) {
         int n = arr.size(), m = arr.back().size();
-        vector<long> dp(m, INT_MAX);
+        vector<long> dp;
 
         for(int i = 0; i < n; i++){
             vector<long> curr(m, INT_MAX);
@@ -29,14 +29,8 @@ public:
                 if(i == 0 && j == 0){
                     curr[0] = arr[0][0];
                 } else{
-                    long lt = INT_MAX, rt = INT_MAX, prevSize = arr[i - 1].size();
-                    if(j < prevSize){
-                        lt = dp[j]; 
-                    } 
-                    if(j - 1 >= 0 && j - 1 <= prevSize){
-                        rt = dp[j - 1];
-                    }
-                    curr[j] = min(curr[j], min(lt , rt) + arr[i][j]);
+                    long lt = dp[j], rt = j > 0 ? dp[j - 1] : INT_MAX;
+                    curr[j] = min(lt , rt) + arr[i][j];
                 }
             }
             dp = curr;
