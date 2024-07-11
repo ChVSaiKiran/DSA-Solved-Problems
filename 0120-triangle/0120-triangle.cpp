@@ -19,19 +19,28 @@ private:
         return dp[i][j] = min(lt, rt) + arr[i][j];
     }
 public:
-    int minimumTotal(vector<vector<int>>& triangle) {
-        int n = triangle.size(), m = triangle.back().size();
-        vector<vector<long>> dp;
-        vector<vector<bool>> vis;
+    int minimumTotal(vector<vector<int>>& arr) {
+        int n = arr.size(), m = arr.back().size();
+        vector<long> dp(m, INT_MAX);
 
-        for(int i = 1; i <= m; i++){
-            dp.push_back(vector<long> (i, INT_MAX));
-            vis.push_back(vector<bool> (i, false));
+        for(int i = 0; i < n; i++){
+            vector<long> curr(m, INT_MAX);
+            for(int j = 0; j < arr[i].size(); j++){
+                if(i == 0 && j == 0){
+                    curr[0] = arr[0][0];
+                } else{
+                    long lt = INT_MAX, rt = INT_MAX, prevSize = arr[i - 1].size();
+                    if(j < prevSize){
+                        lt = dp[j]; 
+                    } 
+                    if(j - 1 >= 0 && j - 1 <= prevSize){
+                        rt = dp[j - 1];
+                    }
+                    curr[j] = min(curr[j], min(lt , rt) + arr[i][j]);
+                }
+            }
+            dp = curr;
         }
-        long ans = INT_MAX;
-        for(int j = 0; j < m; j++){
-            ans = min(ans, fun(triangle, n - 1, j, dp, vis));
-        }
-        return ans;
+        return *min_element(dp.begin(), dp.end());
     }
 };
