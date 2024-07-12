@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0213-house-robber-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1293-three-consecutive-odds](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1803-average-waiting-time) |
@@ -75,6 +76,7 @@
 | [0120-triangle](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0967-minimum-falling-path-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0967-minimum-falling-path-sum) |
 ## String
 |  |
 | ------- |
