@@ -27,13 +27,16 @@ class Solution {
             return false;
         }
         int target = sum / 2;
-        boolean prev[] = new boolean[sum + 1];
+        boolean prev[] = new boolean[target + 1];
 
         prev[0] = true;
-        prev[nums[0]] = true;
+        
+        if(nums[0] <= target){
+            prev[nums[0]] = true;
+        }
 
         for(int ind = 1; ind < n; ind++){
-            boolean curr[] = new boolean[sum + 1];
+            boolean curr[] = new boolean[target + 1];
             curr[0] = true;
             for(int j = 1; j <= target; j++){
                 boolean notTake = prev[j], Take = false;
