@@ -1,5 +1,8 @@
 class Solution {
     private int fun(int[] nums, int ind, int target, int dp[][]){
+        if(target == 0){
+            return dp[ind][target] = 1;
+        }
         if(ind == 0){
             return dp[0][target] = (nums[0] == target ? 1 : 0);
         }
@@ -18,6 +21,7 @@ class Solution {
             return false;
         }
         int target = sum / 2, n = nums.length, dp[][] = new int[n][target + 1];
+        // for()
         for(int row[] : dp){
             Arrays.fill(row, -1);
         }
