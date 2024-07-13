@@ -3,28 +3,48 @@ class Solution {
         if(target == 0){
             return dp[ind][target] = 1;
         }
+
         if(ind == 0){
             return dp[0][target] = (nums[0] == target ? 1 : 0);
         }
+
         if(dp[ind][target] != -1){
             return dp[ind][target];
         }
+
         int notTake = fun(nums, ind - 1, target, dp), Take = 0;
+
         if(target >= nums[ind]){
             Take = fun(nums, ind - 1, target - nums[ind], dp);
         }
+
         return dp[ind][target] = notTake | Take;
     }
+
     public boolean canPartition(int[] nums) {
-        int sum = Arrays.stream(nums).sum();
-        if(sum % 2 == 1){
+        int sum = Arrays.stream(nums).sum(), n = nums.length;
+        if(sum % 2 == 1 || n < 2){
             return false;
         }
-        int target = sum / 2, n = nums.length, dp[][] = new int[n][target + 1];
-        // for()
-        for(int row[] : dp){
-            Arrays.fill(row, -1);
+        int target = sum / 2;
+        boolean prev[] = new boolean[sum + 1];
+
+        prev[0] = true;
+        prev[nums[0]] = true;
+
+        for(int ind = 1; ind < n; ind++){
+            boolean curr[] = new boolean[sum + 1];
+            curr[0] = true;
+            for(int j = 1; j <= target; j++){
+                boolean notTake = prev[j], Take = false;
+                if(j >= nums[ind]){
+                    Take = prev[j - nums[ind]];
+                }
+                curr[j] = notTake || Take;
+            }
+            prev = curr;
         }
-        return fun(nums, n - 1, target, dp) == 1;
+        
+        return prev[target];
     }
 }
