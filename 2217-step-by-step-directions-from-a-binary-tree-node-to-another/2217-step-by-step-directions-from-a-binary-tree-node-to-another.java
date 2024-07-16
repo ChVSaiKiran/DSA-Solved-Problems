@@ -66,12 +66,10 @@ class Solution {
 
     public String getDirections(TreeNode root, int startValue, int destValue) {
         getCommonAncestor(root, startValue, destValue);
-        System.out.println(ancestor.val);
         StringBuilder s1 = new StringBuilder();
         StringBuilder s2 = new StringBuilder();
         f(ancestor, startValue, true, s1);
         f(ancestor, destValue, false, s2);
-        // System.out.println(s1.toString() + " " + s2.toString());
         return s1.toString() + s2.reverse().toString();
     }
 }
