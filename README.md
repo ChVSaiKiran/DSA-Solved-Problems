@@ -180,4 +180,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
