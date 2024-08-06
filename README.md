@@ -58,6 +58,7 @@
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -155,6 +158,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -197,6 +201,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
 |  |
 | ------- |
