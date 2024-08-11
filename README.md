@@ -43,6 +43,7 @@
 | [0062-unique-paths](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -158,6 +160,7 @@
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
 | [0474-ones-and-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0474-ones-and-zeroes) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1720-crawler-log-folder) |
