@@ -1,26 +1,15 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
-        vector<int> primes = {2, 3, 5};
-
-        priority_queue<long, vector<long>, greater<long>> pq;
-        unordered_set<long> vis;
-
-        pq.push(1);
-        vis.insert(1);
-
-        long curr;
-        for(int i = 1; i <= n; i++){
-            curr = pq.top();
-            pq.pop();
-            for(int p : primes){
-                long temp = curr * p;
-                if(vis.find(temp) == vis.end()){
-                    pq.push(temp);
-                    vis.insert(temp);
-                }
-            }
+        vector<int> list(1, 1);
+        int a = 0, b = 0, c = 0;
+        for(int i = 1; i < n; i++){
+            int x = list[a] * 2, y = list[b] * 3, z = list[c] * 5;
+            list.push_back(min({x, y, z}));
+            if(list[i] == x)    a++;
+            if(list[i] == y)    b++;
+            if(list[i] == z)    c++;    
         }
-        return (int)curr;
+        return list.back();
     }
 };
