@@ -49,6 +49,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -136,6 +137,7 @@
 | [0264-ugly-number-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0474-ones-and-zeroes) |
+| [0650-2-keys-keyboard](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Recursion
