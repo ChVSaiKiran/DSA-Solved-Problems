@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
@@ -94,6 +95,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
