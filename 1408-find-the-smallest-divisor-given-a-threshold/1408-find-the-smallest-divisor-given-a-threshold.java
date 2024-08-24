@@ -7,7 +7,7 @@ class Solution {
         return result <= threshold;
     }
     public int smallestDivisor(int[] nums, int threshold) {
-        int low = 0, ans = -1;
+        int low = 1, ans = -1;
         int high = Arrays.stream(nums).max().getAsInt();
         while(low <= high){
             int mid = low + (high - low) / 2;
