@@ -20,6 +20,7 @@
 | [0162-find-peak-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0213-house-robber-ii) |
+| [0275-h-index-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
@@ -120,6 +121,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0162-find-peak-element) |
+| [0275-h-index-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0907-koko-eating-bananas) |
