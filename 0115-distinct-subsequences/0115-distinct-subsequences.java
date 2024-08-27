@@ -33,24 +33,43 @@ class Solution {
         // return f(s, t, n - 1, m - 1, dp);
 
         // Tabulation
+        // int n = s.length(), m = t.length();
+        // int dp[][] = new int[n + 1][m + 1];
 
+        // for(int ind1 = 0; ind1 <= n; ind1++){
+        //     dp[ind1][0] = 1;
+        // }
+
+        // for(int ind1 = 1; ind1 <= n; ind1++){
+        //     for(int ind2 = 1; ind2 <= m; ind2++){
+        //         int take = 0, notTake = dp[ind1 - 1][ind2];
+        //         if(s.charAt(ind1 - 1) == t.charAt(ind2 - 1)){
+        //             take = dp[ind1 - 1][ind2 - 1];
+        //         }
+        //         dp[ind1][ind2] = take + notTake;
+        //     }
+        // }
+
+        // return dp[n][m];
+
+        // Space Optimization
         int n = s.length(), m = t.length();
-        int dp[][] = new int[n + 1][m + 1];
-
-        for(int ind1 = 0; ind1 <= n; ind1++){
-            dp[ind1][0] = 1;
-        }
+        int prev[] = new int[m + 1];
+        prev[0] = 1;
 
         for(int ind1 = 1; ind1 <= n; ind1++){
+            int curr[] = new int[m + 1];
+            curr[0] = 1;
             for(int ind2 = 1; ind2 <= m; ind2++){
-                int take = 0, notTake = dp[ind1 - 1][ind2];
+                int take = 0, notTake = prev[ind2];
                 if(s.charAt(ind1 - 1) == t.charAt(ind2 - 1)){
-                    take = dp[ind1 - 1][ind2 - 1];
+                    take = prev[ind2 - 1];
                 }
-                dp[ind1][ind2] = take + notTake;
+                curr[ind2] = take + notTake;
             }
+            prev = curr;
         }
 
-        return dp[n][m];
+        return prev[m];
     }
 }
