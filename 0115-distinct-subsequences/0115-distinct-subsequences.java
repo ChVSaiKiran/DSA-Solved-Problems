@@ -18,17 +18,39 @@ class Solution {
         }
 
         int notTake = f(s, t, ind1 - 1, ind2, dp);
-        
+
         return dp[ind1][ind2] = take + notTake;
     }
     public int numDistinct(String s, String t) {
-        int n = s.length(), m = t.length();
-        int dp[][] = new int[n][m];
+        // Memoization
+        // int n = s.length(), m = t.length();
+        // int dp[][] = new int[n][m];
 
-        for(int row[] : dp){
-            Arrays.fill(row, -1);
+        // for(int row[] : dp){
+        //     Arrays.fill(row, -1);
+        // }
+
+        // return f(s, t, n - 1, m - 1, dp);
+
+        // Tabulation
+
+        int n = s.length(), m = t.length();
+        int dp[][] = new int[n + 1][m + 1];
+
+        for(int ind1 = 0; ind1 <= n; ind1++){
+            dp[ind1][0] = 1;
         }
 
-        return f(s, t, n - 1, m - 1, dp);
+        for(int ind1 = 1; ind1 <= n; ind1++){
+            for(int ind2 = 1; ind2 <= m; ind2++){
+                int take = 0, notTake = dp[ind1 - 1][ind2];
+                if(s.charAt(ind1 - 1) == t.charAt(ind2 - 1)){
+                    take = dp[ind1 - 1][ind2 - 1];
+                }
+                dp[ind1][ind2] = take + notTake;
+            }
+        }
+
+        return dp[n][m];
     }
 }
