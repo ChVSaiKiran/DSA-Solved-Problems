@@ -183,6 +183,7 @@
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0198-house-robber) |
@@ -235,6 +236,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
 | [0474-ones-and-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0474-ones-and-zeroes) |
