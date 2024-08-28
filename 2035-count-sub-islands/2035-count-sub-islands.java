@@ -1,10 +1,10 @@
 class Solution {
+    // Explore all the neighbours
+    private int delRow[] = {0, -1, 0, 1};
+    private int delCol[] = {-1, 0, 1, 0};
+
     private boolean f(int[][] A, int[][] B, int n, int m, int x, int y, boolean vis[][]){
         vis[x][y] = true;
-        
-        // Explore all the neighbour in the B
-        int delRow[] = {0, -1, 0, 1};
-        int delCol[] = {-1, 0, 1, 0};
 
         // This flag ensures that whether all the neighbour's of the B are exits in A or not
         boolean flag = true;
