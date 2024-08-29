@@ -132,6 +132,7 @@
 | [0162-find-peak-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0436-find-right-interval) |
@@ -359,5 +360,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
