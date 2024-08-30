@@ -64,6 +64,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
@@ -123,6 +124,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
