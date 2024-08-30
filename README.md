@@ -96,6 +96,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -197,6 +198,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -255,6 +258,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
