@@ -23,13 +23,30 @@ class Solution {
     }
 
     public int maxProfit(int[] prices) {
-        int n = prices.length;
-        int dp[][] = new int[n][2];
+        // Memoization Approach
+        // int n = prices.length;
+        // int dp[][] = new int[n][2];
 
-        for(int row[] : dp){
-            Arrays.fill(row, -1);
+        // for(int row[] : dp){
+        //     Arrays.fill(row, -1);
+        // }
+
+        // return f(prices, 0, 1, dp);
+
+        // Tabulation Approach
+        int n = prices.length;
+        int dp[][] = new int[n + 1][2];
+
+        for(int ind = n - 1; ind >= 0; ind--){
+            for(int flag = 1; flag >= 0; flag--){
+                if(flag == 1){
+                    dp[ind][flag] = Math.max(dp[ind + 1][0] - prices[ind], dp[ind + 1][1]);
+                } else{
+                    dp[ind][flag] = Math.max(prices[ind] + dp[ind + 1][1], dp[ind + 1][0]);
+                }
+            }
         }
 
-        return f(prices, 0, 1, dp);
+        return dp[0][1];
     }
 }
