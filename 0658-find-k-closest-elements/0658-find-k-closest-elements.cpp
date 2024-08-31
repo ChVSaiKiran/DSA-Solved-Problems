@@ -16,11 +16,6 @@ public:
             cnt++;
         }
 
-        vector<int> ans;
-        for(int i = start_idx; i <= end_idx; i++){
-            ans.push_back(arr[i]);
-        }
-
-        return ans;
+        return vector<int> (arr.begin() + start_idx, arr.begin() + end_idx + 1);
     }
 };
