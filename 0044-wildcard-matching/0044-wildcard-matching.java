@@ -77,14 +77,47 @@ class Solution {
         // return f(s, p, n, m, dp) == 1;
 
         // Tabulation Approach
+        // int n = s.length(), m = p.length();
+        // boolean dp[][] = new boolean[n + 1][m + 1];
+
+        // dp[0][0] = true;
+
+        // for(int ind1 = 1; ind1 <= n; ind1++){
+        //     dp[ind1][0] = false;
+        // }
+
+        // for(int ind2 = 1; ind2 <= m; ind2++){
+        //     boolean flag = true;
+        //     for(int i = 1; i <= ind2; i++){
+        //         if(p.charAt(i - 1) != '*'){
+        //             flag = false;
+        //             break;
+        //         }
+        //     }
+        //     dp[0][ind2] = flag;
+        // }
+
+        // for(int ind1 = 1; ind1 <= n; ind1++){
+        //     for(int ind2 = 1; ind2 <= m; ind2++){
+        //         if(p.charAt(ind2 - 1) == '?' || (s.charAt(ind1 - 1) == p.charAt(ind2 - 1))){
+        //             dp[ind1][ind2] = dp[ind1 - 1][ind2 - 1];
+        //         } else if(p.charAt(ind2 - 1) == '*'){
+        //             boolean notTake = dp[ind1][ind2 - 1];
+        //             boolean Take = dp[ind1 - 1][ind2];
+        //             dp[ind1][ind2] = notTake || Take;
+        //         } else{
+        //             dp[ind1][ind2] = false;
+        //         }
+        //     }
+        // }
+
+        // return dp[n][m];
+
+        // Space Optimization Approach
         int n = s.length(), m = p.length();
-        boolean dp[][] = new boolean[n + 1][m + 1];
+        boolean prev[] = new boolean[m + 1];
 
-        dp[0][0] = true;
-
-        for(int ind1 = 1; ind1 <= n; ind1++){
-            dp[ind1][0] = false;
-        }
+        prev[0] = true;
 
         for(int ind2 = 1; ind2 <= m; ind2++){
             boolean flag = true;
@@ -94,23 +127,25 @@ class Solution {
                     break;
                 }
             }
-            dp[0][ind2] = flag;
+            prev[ind2] = flag;
         }
 
         for(int ind1 = 1; ind1 <= n; ind1++){
+            boolean curr[] = new boolean[m + 1];
             for(int ind2 = 1; ind2 <= m; ind2++){
                 if(p.charAt(ind2 - 1) == '?' || (s.charAt(ind1 - 1) == p.charAt(ind2 - 1))){
-                    dp[ind1][ind2] = dp[ind1 - 1][ind2 - 1];
+                    curr[ind2] = prev[ind2 - 1];
                 } else if(p.charAt(ind2 - 1) == '*'){
-                    boolean notTake = dp[ind1][ind2 - 1];
-                    boolean Take = dp[ind1 - 1][ind2];
-                    dp[ind1][ind2] = notTake || Take;
+                    boolean notTake = curr[ind2 - 1];
+                    boolean Take = prev[ind2];
+                    curr[ind2] = notTake || Take;
                 } else{
-                    dp[ind1][ind2] = false;
+                    curr[ind2] = false;
                 }
             }
+            prev = curr;
         }
 
-        return dp[n][m];
+        return prev[m];
     }
 }
