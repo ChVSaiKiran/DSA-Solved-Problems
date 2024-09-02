@@ -25,30 +25,26 @@ public:
 
         int n = nums.size(), maxInd = 0;
         sort(nums.begin(), nums.end());
-        vector<int> dp(n, 1), parent(1);
+        vector<int> dp(n, 1), hash(1);
         for(int i = 1; i < n; i++){
-            parent.push_back(i);
+            hash.push_back(i);
             for(int j = i - 1; j >= 0; j--){
-                if(nums[i] % nums[j] == 0){
-                    if(dp[j] + 1 > dp[i]){
-                        dp[i] = dp[j] + 1;
-                        parent[i] = j;
-                        if(dp[i] > dp[maxInd]){
-                            maxInd = i;
-                        }
-                    }
+                if(nums[i] % nums[j] == 0 && dp[j] + 1 > dp[i]){
+                    dp[i] = dp[j] + 1;
+                    hash[i] = j;
                 }
+            }
+            if(dp[i] > dp[maxInd]){
+                maxInd = i;
             }
         }
 
         vector<int> ans;
-        while(parent[maxInd] != maxInd){
+        while(hash[maxInd] != maxInd){
             ans.push_back(nums[maxInd]);
-            maxInd = parent[maxInd];
+            maxInd = hash[maxInd];
         }
-
         ans.push_back(nums[maxInd]);
-
         return ans;        
     }
 };
