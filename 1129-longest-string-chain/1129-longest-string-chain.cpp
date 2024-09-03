@@ -1,27 +1,21 @@
 class Solution {
 private: 
-    bool f(string s, string t, int ind1, int ind2, bool flag){
-        if(ind2 < 0){
-            if(ind1 >= 0){
-                return false;
+    bool check(string &s, string &t){
+        if(s.size() != t.size() + 1){
+            return false;
+        }
+
+        int i = 0, j = 0;
+        while(i < s.size()){
+            if(j < t.size() && s[i] == t[j]){
+                j++;
             }
-            return !flag;
+            i++;
         }
 
-        if(ind1 < 0){
-            return (ind2 == 0 && flag);
-        }
-
-        if(s[ind1] == t[ind2]){
-            return f(s, t, ind1 - 1, ind2 - 1, flag);
-        } 
-        
-        if(flag){
-            return f(s, t, ind1, ind2 - 1, false);
-        }
-        
-        return false;
+        return i == s.size() && j == t.size();
     }
+    
 public:
     int longestStrChain(vector<string>& words) {
         int n = words.size(), len = 1;
@@ -34,11 +28,7 @@ public:
             int x = words[i].size();
             for(int j = i - 1; j >= 0; j--){
                 int y = words[j].size();
-                if((x - y) > 1){
-                    break;
-                }
-
-                if((x - y == 1) && (dp[j] + 1 > dp[i]) && f(words[j], words[i], y - 1, x - 1, true)){
+                if((dp[j] + 1 > dp[i]) && check(words[i], words[j])){
                     dp[i] = dp[j] + 1;
                 }
             }
