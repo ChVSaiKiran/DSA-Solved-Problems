@@ -50,6 +50,7 @@
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1240-stone-game-ii) |
 | [1249-snapshot-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1249-snapshot-array) |
@@ -128,6 +129,7 @@
 | [0870-magic-squares-in-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1023-time-based-key-value-store) |
+| [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1249-snapshot-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -143,6 +145,7 @@
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
+| [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -194,6 +197,7 @@
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
+| [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -251,6 +255,7 @@
 | [0650-2-keys-keyboard](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1250-longest-common-subsequence) |
@@ -304,6 +309,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [1023-time-based-key-value-store](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1023-time-based-key-value-store) |
+| [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
