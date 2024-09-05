@@ -23,7 +23,11 @@ class Solution {
             }
         }
 
-        return dp[ind][amount] = ans != Integer.MAX_VALUE ? ans : -1;
+        if(ans == Integer.MAX_VALUE){
+            ans = -1;
+        }
+
+        return dp[ind][amount] = ans;
     }
 
     public int coinChange(int[] coins, int amount) {
