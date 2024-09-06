@@ -40,6 +40,7 @@
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0792-binary-search) |
@@ -261,6 +262,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0650-2-keys-keyboard) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
@@ -446,4 +448,12 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
