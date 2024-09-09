@@ -362,6 +362,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -444,11 +445,13 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2035-count-sub-islands) |
 ## Interactive
@@ -459,6 +462,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Binary Indexed Tree
 |  |
