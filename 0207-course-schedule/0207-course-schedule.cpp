@@ -1,28 +1,34 @@
 class Solution {
 private:
-    bool dfs(int V, vector<int> adj[], vector<int> &vis, int u){
+    bool hasCycle(vector<int> adj[], int u, vector<int> &vis){
         vis[u] = 2;
-        for(int v: adj[u]){
+        for(int v : adj[u]){
             if(vis[v] == 0){
-                if(dfs(V, adj, vis, v))
+                if(hasCycle(adj, v, vis)){
                     return true;
-            }
-            else if(vis[v] == 2)
+                }
+            } else if(vis[v] == 2){
                 return true;
+            }
         }
         vis[u] = 1;
         return false;
     }
+
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> vis(numCourses, 0);
-        vector<int> adj[numCourses];
-        for(auto it:prerequisites)
-            adj[it[0]].push_back(it[1]);
-        for(int i = 0; i < numCourses; i++)
-            if(vis[i] == 0)
-                if(dfs(numCourses, adj, vis, i))
-                    return false;
+    bool canFinish(int n, vector<vector<int>>& prerequisites) {
+        vector<int> adj[n];
+        for(auto &it : prerequisites){
+            adj[it[1]].push_back(it[0]);
+        }
+
+        vector<int> vis(n, 0);
+        for(int i = 0; i < n; i++){
+            if(vis[i] == 0 && hasCycle(adj, i, vis)){
+                return false;
+            }
+        }
+        
         return true;
     }
 };
