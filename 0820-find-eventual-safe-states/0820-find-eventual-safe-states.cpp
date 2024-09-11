@@ -15,8 +15,7 @@ private:
         }
 
         vis[u] = 1;
-        dp[u] = flag ? 1 : 0;
-        return flag;
+        return dp[u] = flag;
     }
 
 public:
