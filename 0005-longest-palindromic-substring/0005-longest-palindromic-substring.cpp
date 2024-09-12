@@ -24,12 +24,36 @@ public:
         int n = s.length(), maxLen = 0, idx = -1;
         vector<vector<int>> dp(n, vector<int> (n, -1));
 
-        for(int i = 0; i < n; i++){
+        // Memoization Approach
+        // for(int i = 0; i < n; i++){
+        //     for(int j = 0; j < n; j++){
+        //         int len = f(s, i, j, dp);
+        //         if(len > maxLen){
+        //             idx = i;
+        //             maxLen = len;
+        //         }
+        //     }
+        // }
+
+        // Tabulation Approach
+        for(int i = n - 1; i >= 0; i--){
             for(int j = 0; j < n; j++){
-                int len = f(s, i, j, dp);
-                if(len > maxLen){
+                if(i > j){
+                    dp[i][j] = 0;
+                } else if(i == j){
+                    dp[i][j] = 1;
+                } else if(s[i] == s[j]){
+                    dp[i][j] = 2;
+                    if(i + 1 < n && j - 1 >= 0){
+                        dp[i][j] += dp[i + 1][j - 1];
+                    }
+                } else{
+                    dp[i][j] = -1e9;
+                }
+
+                if(maxLen < dp[i][j]){
+                    maxLen = dp[i][j];
                     idx = i;
-                    maxLen = len;
                 }
             }
         }
