@@ -156,6 +156,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
@@ -252,6 +253,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
@@ -329,6 +331,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0115-distinct-subsequences) |
