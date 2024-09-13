@@ -1,40 +1,39 @@
 class Solution {
 private:
-    bool dfs(vector<vector<int>> &graph, int u, vector<int> &vis, vector<int> &dp){
-        bool flag = true;
+    bool hasCycle(vector<vector<int>> &graph, int u, vector<int> &vis, vector<int> &check){
         vis[u] = 2;
-
+        check[u] = 0;
         for(int v : graph[u]){
             if(vis[v] == -1){
-                flag = dfs(graph, v, vis, dp) && flag;
+                if(hasCycle(graph, v, vis, check)){
+                    return true;
+                }
             } else if(vis[v] == 2){
-                return dp[u] = false;
-            } else{
-                flag = flag && (dp[v] == 1);
+                return true;
             }
         }
 
+        check[u] = 1;
         vis[u] = 1;
-        return dp[u] = flag;
+        return false;
     }
-
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<int> dp(n, -1), vis(n, -1);
+        vector<int> vis(n, -1), check(n, 1);
         for(int i = 0; i < n; i++){
             if(vis[i] == -1){
-                dfs(graph, i, vis, dp);
+                hasCycle(graph, i, vis, check);
             }
         }
-        
+
         vector<int> ans;
         for(int i = 0; i < n; i++){
-            if(dp[i] == 1){
+            if(check[i]){
                 ans.push_back(i);
             }
         }
-        
+
         return ans;
     }
 };
