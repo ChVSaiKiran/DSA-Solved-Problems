@@ -64,6 +64,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -455,6 +456,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
@@ -464,6 +466,7 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Breadth-First Search
