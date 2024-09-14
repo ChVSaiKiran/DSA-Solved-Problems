@@ -11,23 +11,19 @@ public:
 
         int delRow[] = {0, 1, 1, 1, 0, -1, -1, -1};
         int delCol[] = {1, 1, 0, -1, -1, -1, 0, 1};
-        set<pair<int, int>> st;
-        st.insert({0, 0});
+        queue<pair<int, int>> q;
+        q.push({0, 0});
 
-        while(!st.empty()){
-            auto it = *(st.begin());
-            auto [x, y] = it;
-            st.erase(it);
+        while(!q.empty()){
+            auto [x, y] = q.front();
+            q.pop();
 
             for(int i = 0; i < 8; i++){
                 int dx = x + delRow[i], dy = y + delCol[i];
                 if(dx >= 0 && dy >= 0 && dx < n && dy < n){
                     if(grid[dx][dy] == 0 && dis[dx][dy] > dis[x][y] + 1){
-                        if(dis[dx][dy] != 1e9){
-                            st.erase({dx, dy});
-                        }
                         dis[dx][dy] = dis[x][y] + 1;
-                        st.insert({dx, dy});
+                        q.push({dx, dy});
                     }
                 }
             }
