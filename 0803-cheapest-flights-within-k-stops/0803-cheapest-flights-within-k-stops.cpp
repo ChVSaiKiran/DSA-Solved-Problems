@@ -7,18 +7,19 @@ public:
         }
 
         vector<int> dis(n, 1e9);
-        set<pair<int,pair<int,int>>> st;
+        queue<pair<int,pair<int,int>>> q;
 
-        st.insert({-1, {src, 0}});
+        q.push({-1, {src, 0}});
         dis[src] = 0;
 
-        while(!st.empty()){
-            auto it = *(st.begin());
+        while(!q.empty()){
+            auto it = q.front();
+            q.pop();
+
             int stops = it.first;
             int u = it.second.first;
             int disU = it.second.second;
-            st.erase(it);
-
+            
             if(stops >= k){
                 continue;
             }
@@ -27,7 +28,7 @@ public:
                 int v = p.first, edgW = p.second;
                 if(dis[v] > (disU + edgW)){
                     dis[v] = disU + edgW;
-                    st.insert({stops + 1, {v, dis[v]}});
+                    q.push({stops + 1, {v, dis[v]}});
                 }
             }
         }
