@@ -390,6 +390,7 @@
 | [0207-course-schedule](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -411,6 +412,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
@@ -491,6 +493,7 @@
 | [0322-coin-change](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
@@ -518,6 +521,7 @@
 | [0207-course-schedule](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
@@ -547,5 +551,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
