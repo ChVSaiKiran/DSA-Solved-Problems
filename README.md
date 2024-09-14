@@ -91,6 +91,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -476,6 +477,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -533,4 +535,8 @@
 | [0207-course-schedule](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
