@@ -5,7 +5,7 @@ private:
         if(n == 1 && m == 1){
             return true;
         }
-        
+
         vector<vector<bool>> vis(n, vector<bool>(m, false));
 
         int delRow[] = {0, 1, 0, -1};
@@ -40,7 +40,16 @@ private:
     }
 public:
     int minimumEffortPath(vector<vector<int>>& heights) {
-        int l = 0, r = 1e6, ans = INT_MAX;
+
+        int mini = 1e6, maxi = 1;
+        for(auto it : heights){
+            for(int i : it){
+                mini = min(mini, i);
+                maxi = max(maxi, i);
+            } 
+        }
+
+        int l = 0, r = (maxi - mini), ans = INT_MAX;
         while(l <= r){
             int m = l + (r - l) / 2;
             bool possible = f(heights, m);
