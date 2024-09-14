@@ -84,6 +84,10 @@ public:
             int x = it.second.first, y = it.second.second;
             st.erase(it);
 
+            if(x == n - 1 && y == m - 1){
+                return effort;
+            }
+
             for(int i = 0; i < 4; i++){
                 int dx = x + delRow[i];
                 int dy = y + delCol[i];
