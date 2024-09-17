@@ -7,12 +7,14 @@ public:
         while(ss1 >> temp){
             mp[temp]++;
         }
-        
+
         while(ss2 >> temp){
             mp[temp]++;
         }
 
         vector<string> ans;
+        ans.reserve(mp.size());
+        
         for(auto it : mp){
             if(it.second == 1){
                 ans.push_back(it.first);
