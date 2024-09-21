@@ -115,6 +115,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3462-vowels-game-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -375,6 +376,7 @@
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -488,6 +490,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1240-stone-game-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -564,6 +567,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Shortest Path
 |  |
 | ------- |
