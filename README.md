@@ -95,6 +95,7 @@
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -162,6 +163,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -305,6 +307,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -375,6 +378,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
@@ -587,4 +591,5 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
