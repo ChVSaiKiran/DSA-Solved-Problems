@@ -18,6 +18,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0496-next-greater-element-i) |
@@ -284,6 +286,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0213-house-robber-ii) |
@@ -327,6 +330,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -362,6 +366,7 @@
 | [0115-distinct-subsequences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
 | [0474-ones-and-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -596,6 +601,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0386-lexicographical-numbers) |
 | [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
