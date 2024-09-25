@@ -1,8 +1,7 @@
 struct TrieNode{
-    bool wordEnd;
     int childCnt;
     TrieNode *child[26];
-    TrieNode() : wordEnd(false), childCnt(0){
+    TrieNode() : childCnt(0){
         for(int i = 0; i < 26; i++){
             child[i] = nullptr;
         }
@@ -11,23 +10,15 @@ struct TrieNode{
 
 class Solution {
 private:
-    int insert(TrieNode *root, string &word, int i){
-        if(i == word.size()){
-            root -> wordEnd = true;
-            root -> childCnt++;
-            return 1;
+    void insert(TrieNode *root, string &word, int i){
+        TrieNode *curr = root;
+        for(char c : word){
+            if(curr -> child[c - 'a'] == nullptr){
+                curr -> child[c - 'a'] = new TrieNode();
+            }
+            curr = curr -> child[c - 'a'];
+            curr -> childCnt++;
         }
-
-        int index = word[i] - 'a';
-
-        if(root -> child[index] == nullptr){
-            root -> child[index] = new TrieNode();
-        }
-        
-        int added = insert(root -> child[index], word, i + 1);
-        root -> childCnt += added;
-
-        return added;
     }
 
     int getPrefixScore(TrieNode *root, string &word){
