@@ -2,9 +2,7 @@ struct TrieNode{
     bool wordEnd;
     int childCnt;
     TrieNode *child[26];
-    TrieNode(){
-        childCnt = 0;
-        wordEnd = false;
+    TrieNode() : wordEnd(false), childCnt(0){
         for(int i = 0; i < 26; i++){
             child[i] = nullptr;
         }
