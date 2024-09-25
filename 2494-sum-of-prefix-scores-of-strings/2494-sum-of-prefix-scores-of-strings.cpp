@@ -10,9 +10,9 @@ struct TrieNode{
 
 class Solution {
 private:
-    void insert(TrieNode *root, string &word, int i){
+    void insert(TrieNode *root, string &word){
         TrieNode *curr = root;
-        for(char c : word){
+        for(char &c : word){
             if(curr -> child[c - 'a'] == nullptr){
                 curr -> child[c - 'a'] = new TrieNode();
             }
@@ -35,14 +35,14 @@ public:
     vector<int> sumPrefixScores(vector<string>& words) {
         TrieNode *root = new TrieNode();
 
-        for(string s : words){
-            insert(root, s, 0);
+        for(string &s : words){
+            insert(root, s);
         }
 
         vector<int> ans;
         ans.reserve(words.size());
 
-        for(string s : words){
+        for(string &s : words){
             ans.push_back(getPrefixScore(root, s));
         }
 
