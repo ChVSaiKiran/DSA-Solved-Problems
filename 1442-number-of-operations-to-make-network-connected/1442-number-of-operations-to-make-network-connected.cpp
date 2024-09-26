@@ -1,39 +1,61 @@
-class Solution {
+struct DisjointSet{
 private:
-    void dfs(vector<int> adj[], int u, vector<bool> &vis){
-        vis[u] = true;
-
-        for(int v : adj[u]){
-            if(!vis[v]){
-                dfs(adj, v, vis);
-            }
+    vector<int> par, rnk;
+public:
+    DisjointSet(int n){
+        par.resize(n + 1);
+        rnk.resize(n + 1, 1);
+        for(int i = 0; i <= n; i++){
+            par[i] = i;
         }
     }
+
+    int getParent(int node){
+        if(node == par[node]){
+            return node;
+        }
+        return par[node] = getParent(par[node]);
+    }
+
+    void unionByRank(int u, int v){
+        int pu = getParent(u);
+        int pv = getParent(v);
+
+        if(pu == pv){
+            return;
+        }
+
+        if(rnk[pu] < rnk[pv]){
+            par[pu] = pv;
+        } else if(rnk[pv] < rnk[pu]){
+            par[pv] = pu;
+        } else{
+            par[pv] = pu;
+            rnk[pu]++;
+        }
+    }
+};
+
+class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
-        int cnt = 0, edgesCnt = connections.size();
-
-        if(edgesCnt < n - 1){
+        int noOfEdges = connections.size();
+        if(noOfEdges < n - 1){
             return -1;
         }
 
-        vector<int> adj[n];
-
+        DisjointSet obj(n);
         for(auto it : connections){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
+            obj.unionByRank(it[0], it[1]);
         }
 
-        vector<bool> vis(n, false);
-        
-
+        int ans = 0;
         for(int i = 0; i < n; i++){
-            if(!vis[i]){
-                dfs(adj, i, vis);
-                cnt++;
+            if(obj.getParent(i) == i){
+                ans++;
             }
         }
 
-        return cnt - 1;
+        return ans - 1;
     }
 };
