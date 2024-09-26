@@ -7,28 +7,17 @@ public:
     }
     
     bool book(int start, int end) {
-        auto val = make_pair(start, end);
-        if(st.empty()){
-            st.insert(val);
-            return true;
+        auto it = st.upper_bound({start, end});
+
+        if((it != st.end()) && (end > it -> first)){
+            return false;
         }
 
-        auto it = upper_bound(st.begin(), st.end(), val);
-
-        if(it != st.end()){
-            if(end > it -> first){
-                return false;
-            }
+        if(it != st.begin() && start < ((--it) -> second)){
+            return false;
         }
 
-        if(it != st.begin()){
-            it--;
-            if(start < it -> second){
-                return false;
-            }
-        }
-
-        st.insert(val);
+        st.insert({start, end});
         return true;
     }
 };
