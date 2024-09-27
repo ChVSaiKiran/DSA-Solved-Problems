@@ -48,6 +48,7 @@
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0792-binary-search) |
@@ -156,6 +157,7 @@
 | [0264-ugly-number-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -236,6 +238,7 @@
 | [0539-minimum-time-difference](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -376,6 +379,7 @@
 | [0539-minimum-time-difference](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1023-time-based-key-value-store) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
@@ -422,6 +426,7 @@
 | [0210-course-schedule-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0801-is-graph-bipartite) |
@@ -531,6 +536,7 @@
 | [0322-coin-change](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -545,6 +551,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
