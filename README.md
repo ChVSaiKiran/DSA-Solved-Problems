@@ -80,6 +80,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -171,6 +172,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1249-snapshot-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -480,6 +482,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
