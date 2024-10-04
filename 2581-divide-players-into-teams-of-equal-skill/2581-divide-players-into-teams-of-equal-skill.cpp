@@ -2,7 +2,7 @@ class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
         long long sum = accumulate(skill.begin(), skill.end(), 0ll);
-        long long n = skill.size(), noOfParts = n / 2;
+        long long noOfParts = skill.size() / 2;
 
         if(sum % noOfParts != 0)
             return -1;
