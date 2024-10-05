@@ -164,6 +164,7 @@
 | [0264-ugly-number-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0906-walking-robot-simulation) |
@@ -192,6 +193,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
@@ -393,6 +395,7 @@
 | [0474-ones-and-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
@@ -502,6 +505,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Design
