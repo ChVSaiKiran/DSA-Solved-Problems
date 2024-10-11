@@ -14,7 +14,7 @@ public:
                     if(sTime == tar){
                         return chair_num;
                     }
-                    chair_eTime = it[1];
+                    chair_eTime = eTime;
                     flag = false;
                     break;
                 }
