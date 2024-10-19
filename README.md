@@ -308,6 +308,7 @@
 | [0906-walking-robot-simulation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -368,6 +369,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -433,6 +435,7 @@
 | [1250-longest-common-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1923-sentence-similarity-iii) |
