@@ -77,6 +77,7 @@
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -196,6 +197,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -222,6 +224,7 @@
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1923-sentence-similarity-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1923-sentence-similarity-iii) |
@@ -261,6 +264,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1249-snapshot-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1249-snapshot-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -286,6 +290,7 @@
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
