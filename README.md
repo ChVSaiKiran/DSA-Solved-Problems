@@ -573,6 +573,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0182-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0262-trips-and-users) |
+| [0601-human-traffic-of-stadium](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0601-human-traffic-of-stadium) |
 | [1541-top-travellers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1541-top-travellers) |
 ## Sliding Window
 |  |
