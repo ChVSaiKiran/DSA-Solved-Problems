@@ -498,6 +498,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -510,6 +511,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -665,6 +667,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2035-count-sub-islands) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
