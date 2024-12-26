@@ -38,6 +38,7 @@
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0477-total-hamming-distance) |
+| [0494-target-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0539-minimum-time-difference) |
@@ -377,6 +378,7 @@
 | [0368-largest-divisible-subset](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0542-01-matrix) |
@@ -630,6 +632,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0040-combination-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
