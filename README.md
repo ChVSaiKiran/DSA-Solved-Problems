@@ -67,6 +67,7 @@
 | [1036-rotting-oranges](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1063-best-sightseeing-pair](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -388,6 +389,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0967-minimum-falling-path-sum) |
+| [1063-best-sightseeing-pair](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1240-stone-game-ii) |
