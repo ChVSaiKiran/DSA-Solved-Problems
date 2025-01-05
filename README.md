@@ -56,6 +56,7 @@
 | [0854-making-a-large-island](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0870-magic-squares-in-grid) |
+| [0878-shifting-letters](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0906-walking-robot-simulation) |
@@ -469,6 +470,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
+| [0878-shifting-letters](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1023-time-based-key-value-store) |
@@ -644,6 +646,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1435-xor-queries-of-a-subarray) |
