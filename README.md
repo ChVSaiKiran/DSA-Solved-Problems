@@ -131,6 +131,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -505,6 +506,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3462-vowels-game-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
@@ -780,6 +782,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Ordered Set
 |  |
@@ -793,4 +796,13 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
