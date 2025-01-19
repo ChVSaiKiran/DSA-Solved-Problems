@@ -36,6 +36,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0477-total-hamming-distance) |
 | [0494-target-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0494-target-sum) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -286,6 +288,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
@@ -795,6 +798,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1002-maximum-width-ramp) |
@@ -812,6 +816,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0729-my-calendar-i) |
 ## Enumeration
 |  |
