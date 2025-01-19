@@ -8,9 +8,7 @@ public:
         }
 
         stack<int> s;
-        vector<int> pge(n, INT_MIN), temp(n, INT_MAX);
-
-        temp[1] = nums[0]; 
+        vector<int> pge(n, INT_MIN), temp(n, nums[0]);
         
         for(int i = 0; i < n; i++){
             if(i > 1){
