@@ -11,12 +11,12 @@ public:
         vector<int> pge(n, INT_MIN), temp(n, INT_MAX);
 
         temp[1] = nums[0]; 
-        for(int i = 2; i < n; i++){
-            temp[i] = min(nums[i - 1], temp[i - 1]);
-        }
         
         for(int i = 0; i < n; i++){
-            
+            if(i > 1){
+                temp[i] = min(nums[i - 1], temp[i - 1]); // min elements till i
+            }
+
             while(!s.empty() && nums[s.top()] <= nums[i]){
                 s.pop();
             }
@@ -34,6 +34,8 @@ public:
                     return true;
                 }
             }
+
+            
 
             s.push(i);
         }
