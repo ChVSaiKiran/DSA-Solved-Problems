@@ -104,6 +104,7 @@
 | [1753-path-with-minimum-effort](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1803-average-waiting-time) |
+| [1876-map-of-highest-peak](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -470,6 +471,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1753-path-with-minimum-effort) |
+| [1876-map-of-highest-peak](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -741,6 +743,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1753-path-with-minimum-effort) |
+| [1876-map-of-highest-peak](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2035-count-sub-islands) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
