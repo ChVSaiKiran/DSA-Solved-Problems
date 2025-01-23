@@ -84,6 +84,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -467,6 +468,7 @@
 | [1036-rotting-oranges](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -590,6 +592,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1753-path-with-minimum-effort) |
@@ -636,6 +639,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -740,6 +744,7 @@
 | [0854-making-a-large-island](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1753-path-with-minimum-effort) |
@@ -756,6 +761,7 @@
 | [0801-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2035-count-sub-islands) |
