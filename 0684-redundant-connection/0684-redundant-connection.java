@@ -19,10 +19,10 @@ class DisJointSet{
         return par[u] = findPar(par[u]);
     }
 
-    public void unionByRank(int u, int v){
+    public boolean unionByRank(int u, int v){
         int pU = findPar(u);
         int pV = findPar(v);
-        if (pU == pV) return;
+        if (pU == pV) return true;
 
         if(rank[pU] > rank[pV]){
             par[pV] = pU;
@@ -32,27 +32,15 @@ class DisJointSet{
             par[pU] = pV;
             rank[pV]++;
         }
+
+        return false;
     }
 }
 
 class Solution {
     public int[] findRedundantConnection(int[][] edges) {
-        int n = edges.length;
-        int ans[] = null;
-        DisJointSet ds = new DisJointSet(n);
+        DisJointSet ds = new DisJointSet(edges.length);
+        return Arrays.stream(edges).filter(edge -> ds.unionByRank(edge[0], edge[1])).findFirst().orElse(null);
 
-        for(int i = 0; i < n; i++){
-            int u = edges[i][0];
-            int v = edges[i][1];
-            
-            int pU = ds.findPar(u);
-            int pV = ds.findPar(v);
-
-            if(pU == pV){
-                return edges[i];
-            }
-            ds.unionByRank(u, v);
-        }
-        return ans;
     }
 }
