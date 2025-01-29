@@ -49,7 +49,7 @@ class Solution {
             int pV = ds.findPar(v);
 
             if(pU == pV){
-                ans = edges[i];
+                return edges[i];
             }
             ds.unionByRank(u, v);
         }
