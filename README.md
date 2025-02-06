@@ -83,6 +83,7 @@
 | [1293-three-consecutive-odds](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1364-tuple-with-same-product) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -240,6 +241,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -654,6 +656,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
+| [1364-tuple-with-same-product](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
