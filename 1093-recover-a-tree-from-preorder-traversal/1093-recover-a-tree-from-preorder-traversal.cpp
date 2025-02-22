@@ -13,14 +13,12 @@ class Solution {
 private:
     void fun(TreeNode *root, vector<pair<int,int>> &temp, int d, int &idx){
         if(idx < temp.size() && temp[idx].second == d + 1){
-            root -> left = new TreeNode(temp[idx].first);
-            idx++;
+            root -> left = new TreeNode(temp[idx++].first);
             fun(root -> left, temp, d + 1, idx);
         }
         
         if(idx < temp.size() && temp[idx].second == d + 1){
-            root -> right = new TreeNode(temp[idx].first);
-            idx++;
+            root -> right = new TreeNode(temp[idx++].first);
             fun(root -> right, temp, d + 1, idx);
         }
     }
