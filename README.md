@@ -535,6 +535,7 @@
 | [0952-word-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1023-time-based-key-value-store) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1250-longest-common-subsequence) |
@@ -587,6 +588,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -607,6 +609,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -636,6 +639,7 @@
 | [0854-making-a-large-island](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
