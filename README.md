@@ -65,6 +65,7 @@
 | [0906-walking-robot-simulation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0967-minimum-falling-path-sum) |
@@ -242,6 +243,7 @@
 | [0870-magic-squares-in-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1023-time-based-key-value-store) |
@@ -586,6 +588,7 @@
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -607,6 +610,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -657,6 +661,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
