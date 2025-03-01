@@ -152,6 +152,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -190,6 +191,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2645-pass-the-pillow) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
@@ -590,6 +592,7 @@
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
