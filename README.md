@@ -104,6 +104,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
+| [1694-make-sum-divisible-by-p](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -267,6 +268,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -789,6 +791,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1694-make-sum-divisible-by-p](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
