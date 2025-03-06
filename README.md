@@ -162,6 +162,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
+| [3227-find-missing-and-repeated-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -197,6 +198,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
@@ -301,6 +303,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -544,6 +547,7 @@
 | [2411-spiral-matrix-iv](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
