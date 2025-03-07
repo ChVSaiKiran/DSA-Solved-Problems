@@ -204,6 +204,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
@@ -621,6 +622,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -644,6 +646,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -665,6 +668,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0210-course-schedule-ii) |
