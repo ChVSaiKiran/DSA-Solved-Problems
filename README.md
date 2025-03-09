@@ -168,6 +168,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -778,6 +779,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3483-alternating-groups-ii) |
 ## Design
 |  |
 | ------- |
