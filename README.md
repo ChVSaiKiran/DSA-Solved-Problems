@@ -350,6 +350,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0278-first-bad-version) |
@@ -635,6 +636,7 @@
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
@@ -662,6 +664,7 @@
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
@@ -856,6 +859,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0477-total-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1435-xor-queries-of-a-subarray) |
