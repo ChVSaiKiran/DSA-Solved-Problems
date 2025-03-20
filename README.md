@@ -34,6 +34,7 @@
 | [0322-coin-change](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
@@ -360,6 +361,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -396,6 +398,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0539-minimum-time-difference) |
@@ -542,6 +545,7 @@
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -737,6 +741,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0264-ugly-number-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
