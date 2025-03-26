@@ -179,6 +179,7 @@
 | [3483-alternating-groups-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3643-zero-array-transformation-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
 | ------- |
@@ -432,6 +433,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Linked List
 |  |
 | ------- |
