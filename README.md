@@ -169,6 +169,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -320,6 +321,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -432,6 +434,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Linked List
