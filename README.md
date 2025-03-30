@@ -250,6 +250,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -277,6 +278,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0906-walking-robot-simulation) |
@@ -339,6 +341,7 @@
 | [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
+| [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -603,6 +606,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0952-word-subsets) |
