@@ -51,6 +51,7 @@
 | [0542-01-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -250,6 +251,7 @@
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
@@ -420,6 +422,7 @@
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
@@ -516,6 +519,7 @@
 | [0518-coin-change-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
