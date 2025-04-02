@@ -86,6 +86,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1184-car-pooling) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1222-remove-covered-intervals](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1222-remove-covered-intervals) |
 | [1240-stone-game-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1240-stone-game-ii) |
 | [1249-snapshot-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
@@ -430,6 +431,7 @@
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1184-car-pooling) |
+| [1222-remove-covered-intervals](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
