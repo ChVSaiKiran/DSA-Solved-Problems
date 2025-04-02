@@ -175,6 +175,7 @@
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3034-points-that-intersect-with-cars) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
