@@ -297,6 +297,7 @@
 | [1023-time-based-key-value-store](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1023-time-based-key-value-store) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1249-snapshot-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1364-tuple-with-same-product) |
@@ -688,6 +689,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -715,6 +717,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -749,6 +752,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -944,6 +948,7 @@
 | [0854-making-a-large-island](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
