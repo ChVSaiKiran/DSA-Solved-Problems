@@ -1,37 +1,52 @@
 class Solution {
+private:
+    int f(vector<int> &nums, int i, int prevInd, vector<vector<int>> &dp){
+        if(i == nums.size()){
+            return 0;
+        }
+
+        if(dp[i][prevInd + 1] != -1){
+            return dp[i][prevInd + 1];
+        }
+
+        int pick = 0, notPick = f(nums, i + 1, prevInd, dp);
+        if(prevInd == -1 || nums[i] % nums[prevInd] == 0){
+            pick = 1 + f(nums, i + 1, i, dp);
+        }
+
+        return dp[i][prevInd + 1] = max(pick, notPick);
+    }
 public:
     vector<int> largestDivisibleSubset(vector<int>& nums) {
+        // For Length
+        // int n = nums.size();
+        // sort(nums.begin(), nums.end());
+        // return f(nums, 0, -1);
+
+        int n = nums.size(), maxInd = 0;
         sort(nums.begin(), nums.end());
-
-        int n = nums.size();
-        vector<int> temp(n);
-
+        
+        vector<int> dp(n, 1), hash(n);
         for(int i = 1; i < n; i++){
-            for(int j = 0; j < i; j++){
-                if(nums[i] % nums[j] == 0){
-                    temp[i] = max(temp[i], temp[j] + 1);
+            hash[i] = i;
+            for(int j = i - 1; j >= 0; j--){
+                if(nums[i] % nums[j] == 0 && dp[j] + 1 > dp[i]){
+                    dp[i] = dp[j] + 1;
+                    hash[i] = j;
                 }
             }
-        }
-        
-
-        int idx = 0;
-        for(int i = 1; i < n; i++){
-            if(temp[idx] < temp[i]){
-                idx = i;
+            if(dp[i] > dp[maxInd]){
+                maxInd = i;
             }
         }
 
-        int prevIdx = idx;
-        vector<int> ans(1, nums[idx--]);
-        while(idx >= 0){
-            if(nums[prevIdx] % nums[idx] == 0 && temp[prevIdx] == temp[idx] + 1){
-                prevIdx = idx;
-                ans.push_back(nums[idx]);
-            }
-            idx--;
+        vector<int> ans;
+        ans.push_back(nums[maxInd]);
+        while(hash[maxInd] != maxInd){
+            maxInd = hash[maxInd];
+            ans.push_back(nums[maxInd]);
         }
 
-        return ans;
+        return ans;        
     }
 };
