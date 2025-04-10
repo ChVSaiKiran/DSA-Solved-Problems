@@ -105,6 +105,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1511-count-number-of-teams](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -546,6 +547,7 @@
 | [1250-longest-common-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -1011,12 +1013,14 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1511-count-number-of-teams](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0729-my-calendar-i) |
+| [1511-count-number-of-teams](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1511-count-number-of-teams) |
 ## Number Theory
 |  |
 | ------- |
