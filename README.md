@@ -225,6 +225,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
@@ -1077,6 +1078,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2998-count-symmetric-integers) |
 ## String Matching
 |  |
 | ------- |
