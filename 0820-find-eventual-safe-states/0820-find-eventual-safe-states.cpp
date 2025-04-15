@@ -1,38 +1,38 @@
 class Solution {
 private:
-    bool hasCycle(vector<vector<int>> &graph, int u, vector<int> &vis, vector<int> &check){
-        vis[u] = 2;
-        check[u] = 0;
-        for(int v : graph[u]){
-            if(vis[v] == -1){
-                if(hasCycle(graph, v, vis, check)){
-                    return true;
-                }
-            } else if(vis[v] == 2){
-                return true;
-            }
+    bool dfs(int u, vector<vector<int>> &graph, vector<int> &vis, vector<int> &ans){
+        if(vis[u] == -1){
+            return false;
         }
 
-        check[u] = 1;
-        vis[u] = 1;
-        return false;
+        if(vis[u] != -2){
+            return vis[u];
+        }
+
+        bool flag = true;
+        vis[u] = -1;
+
+        for(int v : graph[u]){
+            flag = dfs(v, graph, vis, ans) && flag;
+        }
+
+        if(flag){
+            ans.push_back(u);
+        }
+        
+        return vis[u] = flag;
     }
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        vector<int> ans;
         int n = graph.size();
-        vector<int> vis(n, -1), check(n, 1);
+        vector<int> vis(n, -2);
+
         for(int i = 0; i < n; i++){
-            if(vis[i] == -1){
-                hasCycle(graph, i, vis, check);
-            }
+            dfs(i, graph, vis, ans);
         }
 
-        vector<int> ans;
-        for(int i = 0; i < n; i++){
-            if(check[i]){
-                ans.push_back(i);
-            }
-        }
+        sort(ans.begin(), ans.end());
 
         return ans;
     }
