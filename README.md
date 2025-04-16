@@ -159,6 +159,7 @@
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -711,6 +712,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -778,6 +780,7 @@
 | [2035-count-sub-islands](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
@@ -978,6 +981,7 @@
 | [2035-count-sub-islands](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2035-count-sub-islands) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1016,6 +1020,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
