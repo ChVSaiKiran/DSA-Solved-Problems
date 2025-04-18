@@ -621,6 +621,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0038-count-and-say](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0076-minimum-window-substring) |
