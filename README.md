@@ -182,6 +182,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2846-robot-collisions) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -349,6 +350,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -875,6 +877,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3483-alternating-groups-ii) |
 ## Design
 |  |
