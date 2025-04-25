@@ -13,7 +13,9 @@ public:
             // (x - y) % mod == k
             // (x % mod) - (y % mod) == k
             // (x % mod) - k = y % mod
-
+            // Now we want LHS is present in the map or not
+            // So, at the end we store the RHS in the map
+            // LHS might be less that 0, so we will add mod & do % again with mod 
             int y = (((cnt % mod) - k) + mod) % mod;
             if(mp.find(y) != mp.end()){
                 ans += mp[y];
