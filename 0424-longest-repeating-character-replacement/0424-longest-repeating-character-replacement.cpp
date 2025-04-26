@@ -14,7 +14,10 @@ private:
 public:
     int characterReplacement(string s, int k) {
         int ans = 0;
-        for(char ch = 'A'; ch <= 'Z'; ch++){
+        vector<bool> vis(26, false);
+        for(char ch : s){
+            if(vis[ch - 'A'])  continue;
+            vis[ch - 'A'] = true;
             ans = max(ans, fun(s, k, ch));
         }
         return ans;
