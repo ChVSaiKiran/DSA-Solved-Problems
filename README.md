@@ -300,6 +300,7 @@
 | [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
@@ -645,6 +646,7 @@
 | [0127-word-ladder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0539-minimum-time-difference) |
@@ -874,6 +876,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0940-fruit-into-baskets) |
