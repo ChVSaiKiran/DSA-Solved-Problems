@@ -1,16 +1,20 @@
 class Solution {
+private:
+    int fun(vector<int> &nums, int k){
+        int cnt = 0, l = 0, ans = 0;
+        for(int r = 0; r < nums.size(); r++){
+            cnt += (nums[r] % 2);
+            while(cnt > k){
+                cnt -= (nums[l++] % 2);
+            }
+            if(cnt <= k){
+                ans += (r - l + 1);
+            } 
+        }
+        return ans;
+    }
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        unordered_map<int,int> mp;
-        mp[0] = 1;
-
-        int cnt = 0, ans = 0;
-        for(int i = 0; i < nums.size(); i++){
-            cnt += (nums[i] % 2);
-            ans += mp[cnt - k];
-            mp[cnt]++;
-        }
-
-        return ans;
+        return fun(nums, k) - fun(nums, k - 1);
     }
 };
