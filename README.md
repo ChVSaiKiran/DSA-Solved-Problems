@@ -325,6 +325,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1249-snapshot-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1364-tuple-with-same-product](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -493,6 +494,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0725-split-linked-list-in-parts](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0859-design-circular-deque) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
