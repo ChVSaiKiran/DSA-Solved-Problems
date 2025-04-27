@@ -6,46 +6,37 @@ class Solution {
         return ch - 'a' + 26;
     }
 
-    bool check(vector<int> &a, vector<int> &b){
-        for(int i = 0; i < 52; i++){
-            if(a[i] < b[i]){
-                return false;
-            }
-        }
-        return true;
-    }
-
 public:
     string minWindow(string s, string t) {
-        int n1 = s.size(), n2 = t.size();
+        int n = s.size(), k = 0;
 
         vector<int> a(52, 0), b(52, 0);
-        for(char i : t){
-           b[f(i)]++;
-        }
+        for(char i : t)  b[f(i)]++;
+        for(int i : b)  k += (i > 0);
 
-        int j = 0, ansLen = n1 + 1;
+        int l = 0, ansLen = n + 1, match = 0;
         pair<int,int> ans = {-1, -1};
 
-        for(int i = 0; i < n1; i++){
-            a[f(s[i])]++;
-            if(i - j + 1 >= n2){
-                while(check(a, b)){
-                    int len = i - j + 1;
-                    if(len < ansLen){
-                        ansLen = len;
-                        ans = {j, ansLen};
-                    }
-                    a[f(s[j])]--;
-                    j++;
+        for(int r = 0; r < n; r++){
+            int idx1 = f(s[r]);
+            if(++a[idx1] == b[idx1] && b[idx1] != 0){
+                match++;
+            }
+
+            while(match == k){
+                int len = r - l + 1;
+                if(ansLen > len){
+                    ans = {l, len};
+                    ansLen = len;
+                }
+
+                int idx2 = f(s[l++]);
+                if(a[idx2]-- == b[idx2] && b[idx2] != 0){
+                    match--;
                 }
             }
         }
-
-        if(ans.first == -1){
-            return "";
-        }
-
-        return s.substr(ans.first, ans.second);
+        
+        return ans.first == -1 ? "" : s.substr(ans.first, ans.second);
     }
 };
