@@ -156,6 +156,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2465-shifting-letters-ii) |
@@ -445,6 +446,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -899,6 +901,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3483-alternating-groups-ii) |
@@ -958,6 +961,7 @@
 | [2145-grid-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
