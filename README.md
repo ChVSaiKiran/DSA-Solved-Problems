@@ -87,6 +87,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1063-best-sightseeing-pair) |
@@ -290,6 +291,7 @@
 | [0797-rabbits-in-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
