@@ -553,6 +553,7 @@
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -735,6 +736,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -765,6 +767,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -941,6 +944,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
@@ -951,6 +955,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0494-target-sum) |
