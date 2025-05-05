@@ -756,6 +756,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -786,6 +787,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -825,6 +827,7 @@
 | [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -1008,6 +1011,7 @@
 | [0476-number-complement](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0477-total-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1048,6 +1052,7 @@
 | [1396-count-servers-that-communicate](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2035-count-sub-islands) |
