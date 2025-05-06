@@ -741,6 +741,7 @@
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -773,6 +774,7 @@
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -802,6 +804,7 @@
 | [0130-surrounded-regions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0386-lexicographical-numbers) |
@@ -1029,6 +1032,7 @@
 | [0126-word-ladder-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0279-perfect-squares) |
