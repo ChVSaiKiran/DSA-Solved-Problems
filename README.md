@@ -14,6 +14,7 @@
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -309,6 +310,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
@@ -737,6 +739,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -771,6 +774,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -845,6 +849,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
