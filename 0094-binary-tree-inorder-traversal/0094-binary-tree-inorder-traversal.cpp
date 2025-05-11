@@ -18,16 +18,22 @@ public:
             return ans;
         }
         
-        stack<TreeNode*> s;
-        while(!s.empty() || root){
-            if(root){
-                s.push(root);
-                root = root -> left;
-            } else{
-                root = s.top(); s.pop();
+        stack<TreeNode*> s; s.push(root);
+        while(!s.empty()){
+            root = s.top(); s.pop();
+            if(root -> right)
+                s.push(root -> right);
+
+            if(root -> left == nullptr && root -> right == nullptr){
                 ans.push_back(root -> val);
-                root = root -> right;
+            } else{
+                s.push(root);
             }
+
+            if(root -> left)
+                s.push(root -> left);
+            
+            root -> left = root -> right = nullptr;
         }
 
         return ans;        
