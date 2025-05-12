@@ -756,6 +756,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -796,6 +797,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -833,6 +835,7 @@
 | [0207-course-schedule](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
