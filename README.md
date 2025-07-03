@@ -265,6 +265,7 @@
 | [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -291,6 +292,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0797-rabbits-in-forest) |
@@ -589,6 +591,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0868-push-dominoes) |
@@ -691,6 +694,7 @@
 | [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0678-valid-parenthesis-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0868-push-dominoes) |
