@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -557,6 +559,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
