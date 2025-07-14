@@ -1,30 +1,28 @@
 class Solution {
 private:
-    bool cancolour(vector<vector<int>>& graph, int u, vector<int> &colour){
-        for(int v : graph[u]){
-            if(colour[v] == -1){
-                colour[v] = !colour[u];
-                if(cancolour(graph, v, colour) == false){
-                    return false;
-                }
-            } else if(colour[v] == colour[u]){
+    bool canColor(int u, int color, vector<int> &colors, vector<vector<int>> &adj){
+        colors[u] = color;
+        for(int v : adj[u]){
+            if(colors[v] == color){
+                return false;
+            } else if(colors[v] == -1 && !canColor(v, !color, colors, adj)){
                 return false;
             }
         }
         return true;
     }
+
 public:
     bool isBipartite(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<int> colour(n, -1);
+
+        vector<int> colors(n, -1);
         for(int i = 0; i < n; i++){
-            if(colour[i] == -1){
-                colour[i] = 0;
-                if(cancolour(graph, i, colour) == false){
-                    return false;
-                }
+            if(colors[i] == -1 && !canColor(i, 0, colors, graph)){
+                return false;
             }
         }
+
         return true;
     }
 };
