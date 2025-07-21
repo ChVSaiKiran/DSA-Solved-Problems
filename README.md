@@ -13,6 +13,7 @@
 | [0057-insert-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0126-word-ladder-ii) |
@@ -658,6 +660,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
