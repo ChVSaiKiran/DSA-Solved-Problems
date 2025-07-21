@@ -30,6 +30,7 @@
 | [0162-find-peak-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0213-house-robber-ii) |
@@ -226,6 +227,7 @@
 | [0062-unique-paths](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0279-perfect-squares) |
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
