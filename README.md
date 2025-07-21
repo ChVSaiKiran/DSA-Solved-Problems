@@ -15,6 +15,7 @@
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0120-triangle) |
@@ -408,6 +409,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
@@ -489,6 +491,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
