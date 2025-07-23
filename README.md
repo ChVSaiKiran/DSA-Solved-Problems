@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
@@ -492,6 +493,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0229-majority-element-ii) |
