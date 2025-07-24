@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0135-candy) |
@@ -332,6 +333,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0229-majority-element-ii) |
@@ -1158,6 +1160,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0684-redundant-connection) |
