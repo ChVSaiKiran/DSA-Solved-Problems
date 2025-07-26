@@ -58,6 +58,7 @@
 | [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0477-total-hamming-distance) |
+| [0493-reverse-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0518-coin-change-ii) |
@@ -460,6 +461,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
@@ -920,6 +922,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
@@ -949,6 +952,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -1200,12 +1204,14 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0729-my-calendar-i) |
 | [1511-count-number-of-teams](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1511-count-number-of-teams) |
@@ -1260,6 +1266,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0729-my-calendar-i) |
 | [2434-design-a-number-container-system](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2434-design-a-number-container-system) |
 ## Enumeration
