@@ -1,40 +1,39 @@
 class Solution {
-    int merge(vector<int> &arr, int lo, int mid, int hi){
-        int j = mid + 1;
-        int cnt  = 0;
-        for(int i = lo; i <= mid; i++){
-            while(j <= hi && arr[i] > 2 * (long long)arr[j])
-                j++;
-            cnt += (j-(mid + 1));
+private:
+    int lb(vector<int> &nums, int l, int r, long val){
+        int ans = r + 1;
+        while(l <= r){
+            int m = (l + r) / 2;
+            if(nums[m] > val){
+                ans = m;
+                r = m - 1;
+            } else{
+                l = m + 1;
+            }
         }
-        vector<int> temp;
-        int i = lo;
-        j = mid + 1;
-        while(i <= mid && j <= hi){
-            if(arr[i] <= arr[j])
-                temp.push_back(arr[i++]);
-            else
-                temp.push_back(arr[j++]);
-        }
-        while(i <= mid)
-            temp.push_back(arr[i++]);
-        while(j <= hi)
-            temp.push_back(arr[j++]);
-        for(int i = lo; i <= hi; i++)
-            arr[i] = temp[i - lo];
-        return cnt;
+        return ans;
     }
-    int mergesort(vector<int> &arr, int lo, int hi){
-        if(lo >= hi)
+
+    int fun(vector<int> &nums, int s, int e){
+        if(s >= e){
             return 0;
-        int mid = (hi + lo) / 2, cnt = 0;
-        cnt += mergesort(arr,lo,mid);
-        cnt += mergesort(arr,mid+1,hi);
-        cnt += merge(arr,lo,mid,hi);
+        }
+
+        int m = (s + e) / 2, cnt = 0;
+        cnt += fun(nums, s, m);
+        cnt += fun(nums, m + 1, e);
+
+        int pIdx = s;
+        for(int i = m + 1; i <= e; i++){
+            pIdx = lb(nums, pIdx, m, 2l * nums[i]);
+            cnt += (m + 1 - pIdx);
+        }
+
+        sort(nums.begin() + s, nums.begin() + e + 1);
         return cnt;
     }
 public:
     int reversePairs(vector<int>& nums) {
-        return mergesort(nums,0,nums.size() - 1);
+        return fun(nums, 0, nums.size() - 1);
     }
 };
