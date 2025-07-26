@@ -29,7 +29,7 @@ private:
             cnt += (m + 1 - pIdx);
         }
 
-        sort(nums.begin() + s, nums.begin() + e + 1);
+        inplace_merge(nums.begin() + s, nums.begin() + m + 1, nums.begin() + e + 1);
         return cnt;
     }
 public:
