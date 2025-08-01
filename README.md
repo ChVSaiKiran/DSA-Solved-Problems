@@ -340,6 +340,7 @@
 | [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -507,6 +508,7 @@
 | [0075-sort-colors](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -719,6 +721,7 @@
 | [0126-word-ladder-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0424-longest-repeating-character-replacement) |
