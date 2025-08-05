@@ -235,6 +235,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -568,6 +569,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0043-multiply-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
@@ -721,6 +723,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0072-edit-distance) |
