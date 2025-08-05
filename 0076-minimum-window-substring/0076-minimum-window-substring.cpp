@@ -1,42 +1,43 @@
 class Solution {
-    int f(char &ch){
-        if(ch <= 'Z'){
-            return ch - 'A';
-        }
-        return ch - 'a' + 26;
-    }
-
 public:
     string minWindow(string s, string t) {
-        int n = s.size(), k = 0;
-
-        vector<int> a(52, 0), b(52, 0);
-        for(char i : t)  b[f(i)]++;
-        for(int i : b)  k += (i > 0);
-
-        int l = 0, ansLen = n + 1, match = 0;
-        pair<int,int> ans = {-1, -1};
-
-        for(int r = 0; r < n; r++){
-            int idx1 = f(s[r]);
-            if(++a[idx1] == b[idx1] && b[idx1] != 0){
-                match++;
-            }
-
-            while(match == k){
-                int len = r - l + 1;
-                if(ansLen > len){
-                    ans = {l, len};
-                    ansLen = len;
-                }
-
-                int idx2 = f(s[l++]);
-                if(a[idx2]-- == b[idx2] && b[idx2] != 0){
-                    match--;
-                }
-            }
+        vector<int> freq1(60, 0);
+        for(char c : t){
+            freq1[c - 'A']++;
         }
         
-        return ans.first == -1 ? "" : s.substr(ans.first, ans.second);
+        int cnt1 = 0;
+        for(int i : freq1){
+            cnt1 += (i > 0);
+        }
+    
+        vector<int> freq2(60, 0);
+        int j = 0, cnt2 = 0;
+        int ansIdx = 0, minLen = INT_MAX;
+
+        for(int i = 0; i < s.length(); i++){
+            int x = s[i] - 'A';
+            freq2[x]++;
+
+            if(freq1[x] == freq2[x]){
+                cnt2++;
+            }
+
+            while(cnt1 == cnt2){
+                int len = i - j + 1;
+                if(minLen > len){
+                    ansIdx = j;
+                    minLen = len;
+                }
+
+                int y = s[j] - 'A';
+                if(freq1[y] == freq2[y]){
+                    cnt2--;
+                }
+                freq2[y]--; j++;
+            }
+        }
+
+        return minLen == INT_MAX ? "" : s.substr(ansIdx, minLen);
     }
 };
