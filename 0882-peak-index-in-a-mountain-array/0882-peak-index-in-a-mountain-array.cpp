@@ -1,24 +1,17 @@
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
-        int n = arr.size();
-        if(n == 1 || arr[0] > arr[1]){
-            return 0;
-        } else if(arr[n - 1] > arr[n - 2]){
-            return n - 1;
-        } else{
-            int low = 1, high = n - 2;
-            while(low <= high){
-                int mid = low + (high - low) / 2;
-                if(arr[mid - 1] < arr[mid] && arr[mid] > arr[mid + 1]){
-                    return mid;
-                } else if(arr[mid - 1] < arr[mid]){
-                    low = mid + 1;
-                } else{
-                    high = mid - 1;
-                }
+        int l = 1, r = arr.size() - 2;
+        while(l <= r){
+            int m = l + (r - l) / 2;
+            if(arr[m - 1] < arr[m] && arr[m] > arr[m + 1]){
+                return m;
+            } else if(arr[m - 1] < arr[m]){
+                l = m + 1;
+            } else{
+                r = m - 1;
             }
-            return -1;
         }
+        return -1;
     }
 };
