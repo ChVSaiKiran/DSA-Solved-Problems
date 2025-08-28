@@ -110,6 +110,7 @@
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1184-car-pooling) |
+| [1185-find-in-mountain-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1185-find-in-mountain-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1222-remove-covered-intervals](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -486,6 +487,7 @@
 | [1023-time-based-key-value-store](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1185-find-in-mountain-array) |
 | [1249-snapshot-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1249-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1203,6 +1205,7 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1185-find-in-mountain-array) |
 ## Graph
 |  |
 | ------- |
