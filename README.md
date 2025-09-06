@@ -277,6 +277,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -731,6 +732,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
