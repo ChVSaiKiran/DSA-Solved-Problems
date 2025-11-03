@@ -145,6 +145,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1694-make-sum-divisible-by-p) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -329,6 +330,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -660,6 +662,7 @@
 | [1511-count-number-of-teams](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -782,6 +785,7 @@
 | [1524-string-matching-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
