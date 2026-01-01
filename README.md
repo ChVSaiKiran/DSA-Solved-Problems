@@ -17,6 +17,7 @@
 | [0057-insert-interval](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0075-sort-colors) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0189-rotate-array) |
