@@ -17,10 +17,6 @@ class MinStack {
     }
     
     public void pop() {
-        if(s.isEmpty()){
-            return;
-        }
-
         long top = s.pop();
         if(top < 0){    // stack top is negative, we need to restore the old minimum, i.e., min val before pushing
             // top repesents -> pushed value - old minimum
