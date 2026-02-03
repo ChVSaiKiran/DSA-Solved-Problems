@@ -11,22 +11,22 @@
  */
 class Solution {
 private:
-    int f(TreeNode *root, int &ans){
-        if(root == nullptr){
-            return 0;
+    int fun(TreeNode* root, long &ans){
+        if(!root){
+            return INT_MIN;
         }
 
-        int lt = f(root -> left, ans);
-        int rt = f(root -> right, ans);
+        long val = root -> val;
+        long lt = fun(root -> left, ans);
+        long rt = fun(root -> right, ans);
 
-        ans = max(ans, max({root -> val, lt + root -> val, rt + root -> val, lt + rt + root -> val}));
+        ans = max({ans, lt + rt + val, lt + val, rt + val, val});
 
-        return max({root -> val, lt + root -> val, rt + root -> val});
+        return max({lt + val, rt + val, val});
     }
 public:
     int maxPathSum(TreeNode* root) {
-        int ans = INT_MIN;
-        f(root, ans);
+        long ans = INT_MIN;  fun(root, ans);
         return ans;
     }
 };
