@@ -1371,4 +1371,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
