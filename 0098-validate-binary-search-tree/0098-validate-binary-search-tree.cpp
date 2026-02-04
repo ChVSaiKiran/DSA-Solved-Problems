@@ -10,10 +10,15 @@
  * };
  */
 class Solution {
-public:
-    bool isValidBST(TreeNode* root, long mini = LONG_MIN, long maxi = LONG_MAX) {
+private:
+    bool f(TreeNode* root, long l, long r){
         if(root == nullptr) return true;
-        if(mini >= root -> val || maxi <= root -> val)  return false;
-        return isValidBST(root -> left, mini, root -> val) && isValidBST(root -> right, root -> val, maxi);
+        int val = root -> val;
+        return val > l && val < r && f(root -> left, l, val) && f(root -> right, val, r);
+    }
+
+public:
+    bool isValidBST(TreeNode* root) {
+        return f(root, LONG_MIN, LONG_MAX);
     }
 };
