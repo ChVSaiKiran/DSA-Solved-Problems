@@ -855,6 +855,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -904,6 +905,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1110,6 +1112,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
