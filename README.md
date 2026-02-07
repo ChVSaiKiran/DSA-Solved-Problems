@@ -662,6 +662,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -966,6 +967,7 @@
 | [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0785-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1014,6 +1016,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
@@ -1226,6 +1229,7 @@
 | [0733-flood-fill](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1332,6 +1336,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1401,5 +1406,6 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
