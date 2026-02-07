@@ -1,35 +1,55 @@
-class Solution {
-private:
-    int row[4] = {0, 1, 0, -1};
-    int col[4] = {1, 0, -1, 0};
-
-    void dfs(vector<vector<int>>& arr, int x, int y, vector<vector<bool>> &vis){
-        if(vis[x][y]){
-            return;
+class DisJoint {
+public:
+    vector<int> rank, parent;
+    DisJoint(int n){
+        rank.resize(n + 1, 0);
+        parent.resize(n + 1);
+        for(int i = 0; i <= n; i++){
+            parent[i] = i;
         }
-        
-        vis[x][y] = true;
-        for(int i = 0; i < 4; i++){
-            int dx = x + row[i];
-            int dy = y + col[i];
-            if(dx >= 0 && dy >= 0 && dx < arr.size() && dy < arr[0].size() && !vis[dx][dy] && arr[x][y]){
-                dfs(arr, dx, dy, vis);
+    }
+
+    int findPar(int u){
+        if(parent[u] == u){
+            return u;
+        }
+        return parent[u] = findPar(parent[u]);
+    }
+
+    void unionFind(int u, int v){
+        int ulp_u = findPar(u);
+        int ulp_v = findPar(v);
+        if(ulp_u == ulp_v)  return;
+
+        if(rank[ulp_u] > rank[ulp_v]){
+            parent[ulp_v] = ulp_u;
+        } else if(rank[ulp_u] < rank[ulp_v]){
+            parent[ulp_u] = ulp_v;
+        } else{
+            parent[ulp_u] = ulp_v;
+            rank[ulp_v]++;
+        }
+    }
+};
+
+
+class Solution {
+public:
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        int n = isConnected.size();
+        DisJoint ds = DisJoint(n);
+        for(int u = 0; u < n; u++){
+            for(int v = 0; v < n; v++){
+                if(isConnected[u][v] == 1 && u != v){
+                    ds.unionFind(u, v);
+                }
             }
         }
 
-    }
-
-public:
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size(), m = isConnected[0].size();
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
-
         int cnt = 0;
         for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(!vis[i][j] && isConnected[i][j]){
-                    dfs(isConnected, i, j, vis); cnt++;
-                }
+            if(ds.findPar(i) == i){
+                cnt++;
             }
         }
 
