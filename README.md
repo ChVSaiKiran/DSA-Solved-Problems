@@ -50,6 +50,7 @@
 | [0239-sliding-window-maximum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -458,6 +459,7 @@
 | [0075-sort-colors](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
