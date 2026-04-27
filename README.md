@@ -37,6 +37,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0189-rotate-array) |
@@ -453,6 +454,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0455-assign-cookies) |
@@ -488,6 +490,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0240-search-a-2d-matrix-ii) |
