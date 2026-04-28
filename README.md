@@ -344,6 +344,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0890-lemonade-change) |
@@ -384,6 +385,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0797-rabbits-in-forest) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -474,6 +476,7 @@
 | [0611-valid-triangle-number](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0868-push-dominoes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -809,6 +812,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0878-shifting-letters) |
