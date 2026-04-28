@@ -109,6 +109,7 @@
 | [0952-word-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0967-minimum-falling-path-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-maximum-width-ramp](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1036-rotting-oranges) |
@@ -475,6 +476,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0868-push-dominoes) |
+| [0977-squares-of-a-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -574,6 +576,7 @@
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1184-car-pooling) |
