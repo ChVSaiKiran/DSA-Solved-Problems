@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0056-merge-intervals) |
@@ -297,6 +298,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -466,6 +468,7 @@
 | [0018-4sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0189-rotate-array) |
@@ -651,6 +654,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0062-unique-paths) |
@@ -1382,6 +1386,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0654-maximum-binary-tree) |
