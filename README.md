@@ -105,6 +105,7 @@
 | [0907-koko-eating-bananas](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0952-word-subsets) |
@@ -398,6 +399,7 @@
 | [0906-walking-robot-simulation](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -1127,6 +1129,7 @@
 | [0658-find-k-closest-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1197,6 +1200,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0878-shifting-letters](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0878-shifting-letters) |
+| [0930-binary-subarrays-with-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1184-car-pooling) |
