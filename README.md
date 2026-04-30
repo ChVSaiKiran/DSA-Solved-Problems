@@ -92,6 +92,7 @@
 | [0739-daily-temperatures](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0792-binary-search) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0797-rabbits-in-forest](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0859-design-circular-deque) |
@@ -483,6 +484,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0768-partition-labels) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0868-push-dominoes](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0868-push-dominoes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1129-longest-string-chain) |
