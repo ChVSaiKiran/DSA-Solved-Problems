@@ -1,2 +1,5 @@
-select customers.name as customers from customers left join
-orders on customers.id = orders.customerId where customerId is null;
+/* Write your PL/SQL query statement below */
+SELECT C.NAME AS CUSTOMERS FROM CUSTOMERS C 
+LEFT JOIN ORDERS O
+ON O.CUSTOMERID = C.ID
+WHERE O.ID IS NULL
