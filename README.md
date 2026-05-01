@@ -1125,6 +1125,7 @@
 | [0196-delete-duplicate-emails](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0262-trips-and-users) |
+| [0511-game-play-analysis-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0511-game-play-analysis-i) |
 | [0601-human-traffic-of-stadium](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0601-human-traffic-of-stadium) |
 | [1541-top-travellers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1541-top-travellers) |
 ## Sliding Window
