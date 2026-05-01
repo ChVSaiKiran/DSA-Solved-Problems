@@ -234,6 +234,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3034-points-that-intersect-with-cars](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3034-points-that-intersect-with-cars) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -1147,6 +1148,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/3483-alternating-groups-ii) |
 ## Design
