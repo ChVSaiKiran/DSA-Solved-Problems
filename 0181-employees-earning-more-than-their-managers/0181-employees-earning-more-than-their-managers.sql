@@ -1,4 +1,3 @@
 /* Write your PL/SQL query statement below */
-SELECT a.name as Employee FROM Employee a JOIN Employee b
-ON a.managerId = b.id
-WHERE a.salary > b.salary;
+SELECT E1.NAME AS EMPLOYEE FROM EMPLOYEE E1 JOIN EMPLOYEE E2
+ON E1.MANAGERID = E2.ID AND E1.SALARY > E2.SALARY
