@@ -203,6 +203,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -292,6 +293,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2050-count-good-numbers) |
+| [2364-count-number-of-bad-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2645-pass-the-pillow) |
@@ -444,6 +446,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2364-count-number-of-bad-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2434-design-a-number-container-system](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1116,6 +1119,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2364-count-number-of-bad-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2364-count-number-of-bad-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
