@@ -6,10 +6,7 @@ public:
 
         for(int i = 0; i < n; i++){
             r = ((r + nums[i]) % k + k) % k;
-            if(mp.count(r)){
-                res += mp[r];
-            }
-            mp[r]++;
+            res += mp[r];   mp[r]++;
         }
 
         return res;
