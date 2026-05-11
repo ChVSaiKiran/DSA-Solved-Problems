@@ -217,6 +217,7 @@
 | [2502-sort-the-people](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -661,6 +662,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
