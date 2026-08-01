@@ -198,6 +198,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2249-count-the-hidden-sequences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2249-count-the-hidden-sequences) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -448,6 +449,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -571,6 +573,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2047-find-a-peak-element-ii) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2586-longest-square-streak-in-an-array) |
@@ -614,6 +617,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1253,6 +1257,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2145-grid-game](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2249-count-the-hidden-sequences) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2358-number-of-ways-to-split-array](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2465-shifting-letters-ii) |
@@ -1452,6 +1457,7 @@
 | [0456-132-pattern](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0729-my-calendar-i) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2434-design-a-number-container-system](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/2434-design-a-number-container-system) |
 ## Enumeration
 |  |
