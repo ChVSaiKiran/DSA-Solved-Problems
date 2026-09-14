@@ -6,13 +6,10 @@ class Solution {
         int val = sum / 2, n = nums.length;
         boolean[] dp = new boolean[val + 1]; dp[0] = true;
 
-        for(int i = n - 1; i >= 0; i--){
-            boolean[] curr = new boolean[val + 1]; curr[0] = true;
-            for(int j = 1; j <= val; j++){
-                boolean notPick = dp[j], pick = (j - nums[i] >= 0) ? dp[j - nums[i]] : false;
-                curr[j] = pick || notPick;
+        for(int num : nums){
+            for(int j = val; j >= num; j--){
+                dp[j] = dp[j] || dp[j - num];
             }
-            dp = curr;
         }
 
         return dp[val];
