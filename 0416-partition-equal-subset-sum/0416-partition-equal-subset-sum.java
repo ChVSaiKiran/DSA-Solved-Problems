@@ -1,20 +1,20 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int n = nums.length;
-        int sum = Arrays.stream(nums).sum(), val = sum / 2;
+        int sum = Arrays.stream(nums).sum();
         if(sum % 2 == 1) return false;
 
-        int[] dp = new int[val + 1]; dp[0] = 1;
+        int val = sum / 2, n = nums.length;
+        boolean[] dp = new boolean[val + 1]; dp[0] = true;
 
         for(int i = n - 1; i >= 0; i--){
-            int[] curr = new int[val + 1]; curr[0] = 1;
+            boolean[] curr = new boolean[val + 1]; curr[0] = true;
             for(int j = 1; j <= val; j++){
-                int notPick = dp[j], pick = (j - nums[i] >= 0) ? dp[j - nums[i]] : 0;
-                curr[j] = (pick + notPick > 0) ? 1 : 0;
+                boolean notPick = dp[j], pick = (j - nums[i] >= 0) ? dp[j - nums[i]] : false;
+                curr[j] = pick || notPick;
             }
             dp = curr;
         }
 
-        return dp[val] > 0;
+        return dp[val];
     }
 }
