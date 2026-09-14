@@ -1497,4 +1497,12 @@
 | [0785-is-graph-bipartite](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0802-find-eventual-safe-states) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ChVSaiKiran/DSA-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
