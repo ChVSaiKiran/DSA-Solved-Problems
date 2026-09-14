@@ -1,53 +1,32 @@
 class Solution {
-    private int fun(int[] nums, int ind, int target, int dp[][]){
-        if(target == 0){
-            return dp[ind][target] = 1;
+    private int solve(int i, int val, int[] nums, int[][] dp){
+        if(i >= nums.length || val < 0){
+            return 0;
         }
 
-        if(ind == 0){
-            return dp[0][target] = (nums[0] == target ? 1 : 0);
+        if(dp[i][val] != -1){
+            return dp[i][val];
         }
 
-        if(dp[ind][target] != -1){
-            return dp[ind][target];
+        if(val == 0){
+            return dp[i][val] = 1;
         }
 
-        int notTake = fun(nums, ind - 1, target, dp), Take = 0;
+        int notPick = solve(i + 1, val, nums, dp);
+        int pick = solve(i + 1, val - nums[i], nums, dp);
 
-        if(target >= nums[ind]){
-            Take = fun(nums, ind - 1, target - nums[ind], dp);
-        }
-
-        return dp[ind][target] = notTake | Take;
+        return dp[i][val] = pick + notPick > 0 ? 1 : 0;
     }
 
     public boolean canPartition(int[] nums) {
-        int sum = Arrays.stream(nums).sum(), n = nums.length;
-        if(sum % 2 == 1 || n < 2){
-            return false;
-        }
-        int target = sum / 2;
-        boolean prev[] = new boolean[target + 1];
+        int sum = Arrays.stream(nums).sum(), val = sum / 2;
+        if(sum % 2 == 1) return false;
 
-        prev[0] = true;
-        
-        if(nums[0] <= target){
-            prev[nums[0]] = true;
+        int[][] dp = new int[nums.length][val + 1];
+        for(int[] row : dp){
+            Arrays.fill(row, -1);
         }
 
-        for(int ind = 1; ind < n; ind++){
-            boolean curr[] = new boolean[target + 1];
-            curr[0] = true;
-            for(int j = 1; j <= target; j++){
-                boolean notTake = prev[j], Take = false;
-                if(j >= nums[ind]){
-                    Take = prev[j - nums[ind]];
-                }
-                curr[j] = notTake || Take;
-            }
-            prev = curr;
-        }
-        
-        return prev[target];
+        return solve(0, val, nums, dp) > 0;
     }
 }
